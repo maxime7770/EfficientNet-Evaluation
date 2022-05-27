@@ -1,0 +1,1001 @@
+,Class,Accuracy,Top 5 Accuracy,F1 score,Precision,Recall,Specificity
+0,"tench, Tinca tinca",tensor(0.7428),0.98,0.96,0.96,0.96,0.99995995
+1,"goldfish, Carassius auratus",tensor(0.7428),0.96,0.875,0.9130435,0.84,0.9999199
+2,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",tensor(0.7428),0.98,0.8125,0.84782606,0.78,0.99985987
+3,"tiger shark, Galeocerdo cuvieri",tensor(0.7428),0.94,0.74999994,0.7222222,0.78,0.9996997
+4,"hammerhead, hammerhead shark",tensor(0.7428),0.98,0.7924529,0.75,0.84,0.99971974
+5,"electric ray, crampfish, numbfish, torpedo",tensor(0.7428),0.92,0.71559626,0.66101694,0.78,0.9995996
+6,stingray,tensor(0.7428),0.96,0.76595753,0.8181818,0.72,0.99983984
+7,cock,tensor(0.7428),0.92,0.78160924,0.9189189,0.68,0.9999399
+8,hen,tensor(0.7428),0.94,0.79611653,0.7735849,0.82,0.99975973
+9,"ostrich, Struthio camelus",tensor(0.7428),1.0,0.98039216,0.96153843,1.0,0.99995995
+10,"brambling, Fringilla montifringilla",tensor(0.7428),0.96,0.8269231,0.7962963,0.86,0.99977976
+11,"goldfinch, Carduelis carduelis",tensor(0.7428),1.0,0.9292929,0.93877554,0.92,0.9999399
+12,"house finch, linnet, Carpodacus mexicanus",tensor(0.7428),1.0,0.8910891,0.88235295,0.9,0.9998799
+13,"junco, snowbird",tensor(0.7428),1.0,0.93333334,0.8909091,0.98,0.9998799
+14,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",tensor(0.7428),0.98,0.9215687,0.90384614,0.94,0.9998999
+15,"robin, American robin, Turdus migratorius",tensor(0.7428),0.98,0.89795923,0.9166667,0.88,0.9999199
+16,bulbul,tensor(0.7428),0.98,0.9375,0.9782609,0.9,0.99998
+17,jay,tensor(0.7428),0.94,0.94,0.94,0.94,0.9999399
+18,magpie,tensor(0.7428),0.94,0.9148936,0.97727275,0.86,0.99998
+19,chickadee,tensor(0.7428),0.98,0.9591837,0.9791667,0.94,0.99998
+20,"water ouzel, dipper",tensor(0.7428),0.94,0.8659794,0.89361703,0.84,0.9998999
+21,kite,tensor(0.7428),0.98,0.78846157,0.7592593,0.82,0.99973977
+22,"bald eagle, American eagle, Haliaeetus leucocephalus",tensor(0.7428),0.98,0.9320388,0.9056604,0.96,0.9998999
+23,vulture,tensor(0.7428),1.0,0.9056604,0.85714287,0.96,0.99983984
+24,"great grey owl, great gray owl, Strix nebulosa",tensor(0.7428),0.98,0.989899,1.0,0.98,1.0
+25,"European fire salamander, Salamandra salamandra",tensor(0.7428),0.98,0.9591837,0.9791667,0.94,0.99998
+26,"common newt, Triturus vulgaris",tensor(0.7428),1.0,0.6111111,0.5689655,0.66,0.9994995
+27,eft,tensor(0.7428),0.8,0.80851066,0.8636364,0.76,0.9998799
+28,"spotted salamander, Ambystoma maculatum",tensor(0.7428),0.9,0.81632656,0.8333333,0.8,0.99983984
+29,"axolotl, mud puppy, Ambystoma mexicanum",tensor(0.7428),0.96,0.8888889,0.8979592,0.88,0.9998999
+30,"bullfrog, Rana catesbeiana",tensor(0.7428),0.86,0.70967746,0.76744187,0.66,0.9997998
+31,"tree frog, tree-frog",tensor(0.7428),0.94,0.8041237,0.82978725,0.78,0.99983984
+32,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",tensor(0.7428),0.8,0.51785713,0.46774194,0.58,0.99933934
+33,"loggerhead, loggerhead turtle, Caretta caretta",tensor(0.7428),0.94,0.7636364,0.7,0.84,0.99963963
+34,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",tensor(0.7428),0.86,0.6966292,0.7948718,0.62,0.99983984
+35,mud turtle,tensor(0.7428),0.92,0.60784316,0.59615386,0.62,0.9995796
+36,terrapin,tensor(0.7428),1.0,0.5744681,0.6136364,0.54,0.99965966
+37,"box turtle, box tortoise",tensor(0.7428),1.0,0.76,0.76,0.76,0.99975973
+38,banded gecko,tensor(0.7428),0.94,0.82828283,0.8367347,0.82,0.99983984
+39,"common iguana, iguana, Iguana iguana",tensor(0.7428),0.92,0.78787875,0.79591835,0.78,0.9997998
+40,"American chameleon, anole, Anolis carolinensis",tensor(0.7428),0.96,0.5981308,0.5614035,0.64,0.9994995
+41,"whiptail, whiptail lizard",tensor(0.7428),0.96,0.78899086,0.7288136,0.86,0.9996797
+42,agama,tensor(0.7428),0.94,0.71999997,0.72,0.72,0.99971974
+43,"frilled lizard, Chlamydosaurus kingi",tensor(0.7428),0.92,0.8712871,0.8627451,0.88,0.99985987
+44,alligator lizard,tensor(0.7428),0.86,0.6593407,0.73170733,0.6,0.99977976
+45,"Gila monster, Heloderma suspectum",tensor(0.7428),0.84,0.8181819,0.94736844,0.72,0.99995995
+46,"green lizard, Lacerta viridis",tensor(0.7428),0.9,0.42857143,0.5294118,0.36,0.9996797
+47,"African chameleon, Chamaeleo chamaeleon",tensor(0.7428),0.92,0.82,0.82,0.82,0.9998198
+48,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",tensor(0.7428),0.98,0.9108911,0.9019608,0.92,0.9998999
+49,"African crocodile, Nile crocodile, Crocodylus niloticus",tensor(0.7428),0.84,0.7070707,0.71428573,0.7,0.99971974
+50,"American alligator, Alligator mississipiensis",tensor(0.7428),0.88,0.73170733,0.9375,0.6,0.99995995
+51,triceratops,tensor(0.7428),0.9,0.9072165,0.9361702,0.88,0.9999399
+52,"thunder snake, worm snake, Carphophis amoenus",tensor(0.7428),0.92,0.71929824,0.640625,0.82,0.99953955
+53,"ringneck snake, ring-necked snake, ring snake",tensor(0.7428),0.94,0.7850467,0.7368421,0.84,0.9996997
+54,"hognose snake, puff adder, sand viper",tensor(0.7428),0.88,0.6823529,0.82857144,0.58,0.9998799
+55,"green snake, grass snake",tensor(0.7428),0.94,0.5641026,0.78571427,0.44,0.9998799
+56,"king snake, kingsnake",tensor(0.7428),0.88,0.83146065,0.94871795,0.74,0.99995995
+57,"garter snake, grass snake",tensor(0.7428),0.98,0.82474226,0.85106385,0.8,0.99985987
+58,water snake,tensor(0.7428),0.88,0.6,0.6,0.6,0.9995996
+59,vine snake,tensor(0.7428),0.84,0.7058824,0.6923077,0.72,0.9996797
+60,"night snake, Hypsiglena torquata",tensor(0.7428),0.82,0.33333334,0.375,0.3,0.9994995
+61,"boa constrictor, Constrictor constrictor",tensor(0.7428),0.96,0.79999995,0.84444445,0.76,0.99985987
+62,"rock python, rock snake, Python sebae",tensor(0.7428),0.72,0.6373626,0.70731705,0.58,0.99975973
+63,"Indian cobra, Naja naja",tensor(0.7428),0.98,0.7692308,0.7407407,0.8,0.99971974
+64,green mamba,tensor(0.7428),0.92,0.64912283,0.578125,0.74,0.99945945
+65,sea snake,tensor(0.7428),0.92,0.7916667,0.82608694,0.76,0.99983984
+66,"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",tensor(0.7428),0.9,0.5423729,0.47058824,0.64,0.99927926
+67,"diamondback, diamondback rattlesnake, Crotalus adamanteus",tensor(0.7428),0.84,0.6363636,0.7368421,0.56,0.9997998
+68,"sidewinder, horned rattlesnake, Crotalus cerastes",tensor(0.7428),0.92,0.35955054,0.41025642,0.32,0.99953955
+69,trilobite,tensor(0.7428),1.0,0.8888889,0.82758623,0.96,0.9997998
+70,"harvestman, daddy longlegs, Phalangium opilio",tensor(0.7428),0.92,0.776699,0.754717,0.8,0.99973977
+71,scorpion,tensor(0.7428),0.94,0.7924529,0.75,0.84,0.99971974
+72,"black and gold garden spider, Argiope aurantia",tensor(0.7428),0.98,0.81415933,0.73015875,0.92,0.99965966
+73,"barn spider, Araneus cavaticus",tensor(0.7428),0.98,0.544,0.45333335,0.68,0.9991792
+74,"garden spider, Aranea diademata",tensor(0.7428),0.96,0.5432099,0.7096774,0.44,0.9998198
+75,"black widow, Latrodectus mactans",tensor(0.7428),0.98,0.84112155,0.7894737,0.9,0.99975973
+76,tarantula,tensor(0.7428),0.98,0.9306931,0.92156863,0.94,0.9999199
+77,"wolf spider, hunting spider",tensor(0.7428),0.94,0.5806452,0.627907,0.54,0.9996797
+78,tick,tensor(0.7428),0.9,0.72222215,0.67241377,0.78,0.9996196
+79,centipede,tensor(0.7428),0.88,0.7916667,0.82608694,0.76,0.99983984
+80,black grouse,tensor(0.7428),1.0,0.88,0.88,0.88,0.9998799
+81,ptarmigan,tensor(0.7428),0.92,0.8125,0.84782606,0.78,0.99985987
+82,"ruffed grouse, partridge, Bonasa umbellus",tensor(0.7428),1.0,0.82568806,0.7627119,0.9,0.99971974
+83,"prairie chicken, prairie grouse, prairie fowl",tensor(0.7428),1.0,0.86,0.86,0.86,0.99985987
+84,peacock,tensor(0.7428),0.9,0.9010989,1.0,0.82,1.0
+85,quail,tensor(0.7428),0.96,0.89795923,0.9166667,0.88,0.9999199
+86,partridge,tensor(0.7428),0.98,0.78846157,0.7592593,0.82,0.99973977
+87,"African grey, African gray, Psittacus erithacus",tensor(0.7428),0.96,0.9583333,1.0,0.92,1.0
+88,macaw,tensor(0.7428),1.0,0.9411765,0.9230769,0.96,0.9999199
+89,"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",tensor(0.7428),0.92,0.875,0.9130435,0.84,0.9999199
+90,lorikeet,tensor(0.7428),1.0,0.97029704,0.9607843,0.98,0.99995995
+91,coucal,tensor(0.7428),0.94,0.8888889,0.8979592,0.88,0.9998999
+92,bee eater,tensor(0.7428),1.0,0.9494949,0.9591837,0.94,0.99995995
+93,hornbill,tensor(0.7428),0.94,0.927835,0.9574468,0.9,0.99995995
+94,hummingbird,tensor(0.7428),0.96,0.89795923,0.9166667,0.88,0.9999199
+95,jacamar,tensor(0.7428),0.98,0.8598131,0.80701756,0.92,0.99977976
+96,toucan,tensor(0.7428),0.98,0.9072165,0.9361702,0.88,0.9999399
+97,drake,tensor(0.7428),0.9,0.84444445,0.95,0.76,0.99995995
+98,"red-breasted merganser, Mergus serrator",tensor(0.7428),0.98,0.8712871,0.8627451,0.88,0.99985987
+99,goose,tensor(0.7428),0.96,0.75,0.7826087,0.72,0.9997998
+100,"black swan, Cygnus atratus",tensor(0.7428),0.98,0.96,0.96,0.96,0.99995995
+101,tusker,tensor(0.7428),0.96,0.5641026,0.49253732,0.66,0.9993193
+102,"echidna, spiny anteater, anteater",tensor(0.7428),1.0,0.96969694,0.97959185,0.96,0.99998
+103,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",tensor(0.7428),0.88,0.77358484,0.73214287,0.82,0.9996997
+104,"wallaby, brush kangaroo",tensor(0.7428),0.96,0.85106385,0.90909094,0.8,0.9999199
+105,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",tensor(0.7428),0.88,0.886598,0.9148936,0.86,0.9999199
+106,wombat,tensor(0.7428),0.88,0.78723407,0.84090906,0.74,0.99985987
+107,jellyfish,tensor(0.7428),0.96,0.8627451,0.84615386,0.88,0.99983984
+108,"sea anemone, anemone",tensor(0.7428),0.92,0.74999994,0.8684211,0.66,0.9998999
+109,brain coral,tensor(0.7428),1.0,0.8653845,0.8333333,0.9,0.9998198
+110,"flatworm, platyhelminth",tensor(0.7428),1.0,0.8431373,0.8269231,0.86,0.9998198
+111,"nematode, nematode worm, roundworm",tensor(0.7428),0.96,0.9215687,0.90384614,0.94,0.9998999
+112,conch,tensor(0.7428),0.94,0.8041237,0.82978725,0.78,0.99983984
+113,snail,tensor(0.7428),0.9,0.80808085,0.81632656,0.8,0.9998198
+114,slug,tensor(0.7428),0.86,0.7628866,0.78723407,0.74,0.9997998
+115,"sea slug, nudibranch",tensor(0.7428),0.98,0.79591835,0.8125,0.78,0.9998198
+116,"chiton, coat-of-mail shell, sea cradle, polyplacophore",tensor(0.7428),0.96,0.8484848,0.85714287,0.84,0.99985987
+117,"chambered nautilus, pearly nautilus, nautilus",tensor(0.7428),0.92,0.9148936,0.97727275,0.86,0.99998
+118,"Dungeness crab, Cancer magister",tensor(0.7428),0.9,0.7799999,0.78,0.78,0.99977976
+119,"rock crab, Cancer irroratus",tensor(0.7428),0.84,0.57407403,0.5344828,0.62,0.99945945
+120,fiddler crab,tensor(0.7428),0.96,0.7422681,0.7659575,0.72,0.99977976
+121,"king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",tensor(0.7428),0.92,0.80808085,0.81632656,0.8,0.9998198
+122,"American lobster, Northern lobster, Maine lobster, Homarus americanus",tensor(0.7428),0.98,0.8543689,0.8301887,0.88,0.9998198
+123,"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",tensor(0.7428),0.86,0.82608694,0.9047619,0.76,0.9999199
+124,"crayfish, crawfish, crawdad, crawdaddy",tensor(0.7428),0.9,0.70454544,0.81578946,0.62,0.99985987
+125,hermit crab,tensor(0.7428),0.96,0.8,0.76363635,0.84,0.99973977
+126,isopod,tensor(0.7428),0.84,0.7551021,0.7708333,0.74,0.99977976
+127,"white stork, Ciconia ciconia",tensor(0.7428),0.94,0.9166666,0.95652175,0.88,0.99995995
+128,"black stork, Ciconia nigra",tensor(0.7428),0.94,0.77777773,0.7241379,0.84,0.9996797
+129,spoonbill,tensor(0.7428),1.0,0.9607843,0.9423077,0.98,0.9999399
+130,flamingo,tensor(0.7428),0.98,0.9591837,0.9791667,0.94,0.99998
+131,"little blue heron, Egretta caerulea",tensor(0.7428),0.98,0.89795923,0.9166667,0.88,0.9999199
+132,"American egret, great white heron, Egretta albus",tensor(0.7428),0.98,0.8495575,0.7619048,0.96,0.9996997
+133,bittern,tensor(0.7428),0.92,0.927835,0.9574468,0.9,0.99995995
+134,crane,tensor(0.7428),0.92,0.78571427,0.9705882,0.66,0.99998
+135,"limpkin, Aramus pictus",tensor(0.7428),1.0,0.98039216,0.96153843,1.0,0.99995995
+136,"European gallinule, Porphyrio porphyrio",tensor(0.7428),0.98,0.9306931,0.92156863,0.94,0.9999199
+137,"American coot, marsh hen, mud hen, water hen, Fulica americana",tensor(0.7428),0.98,0.9292929,0.93877554,0.92,0.9999399
+138,bustard,tensor(0.7428),0.98,0.94,0.94,0.94,0.9999399
+139,"ruddy turnstone, Arenaria interpres",tensor(0.7428),0.98,0.9423077,0.9074074,0.98,0.9998999
+140,"red-backed sandpiper, dunlin, Erolia alpina",tensor(0.7428),0.94,0.84,0.84,0.84,0.99983984
+141,"redshank, Tringa totanus",tensor(0.7428),0.96,0.9166666,0.95652175,0.88,0.99995995
+142,dowitcher,tensor(0.7428),1.0,0.8888889,0.8979592,0.88,0.9998999
+143,"oystercatcher, oyster catcher",tensor(0.7428),0.96,0.9,0.9,0.9,0.9998999
+144,pelican,tensor(0.7428),1.0,0.8823529,0.86538464,0.9,0.99985987
+145,"king penguin, Aptenodytes patagonica",tensor(0.7428),0.94,0.9473684,1.0,0.9,1.0
+146,"albatross, mollymawk",tensor(0.7428),0.98,0.9019608,0.88461536,0.92,0.9998799
+147,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",tensor(0.7428),0.96,0.8910891,0.88235295,0.9,0.9998799
+148,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",tensor(0.7428),1.0,0.8932039,0.8679245,0.92,0.99985987
+149,"dugong, Dugong dugon",tensor(0.7428),0.94,0.84112155,0.7894737,0.9,0.99975973
+150,sea lion,tensor(0.7428),0.9,0.75728154,0.7358491,0.78,0.99971974
+151,Chihuahua,tensor(0.7428),0.92,0.6530613,0.6666667,0.64,0.9996797
+152,Japanese spaniel,tensor(0.7428),1.0,0.8602151,0.9302326,0.8,0.9999399
+153,"Maltese dog, Maltese terrier, Maltese",tensor(0.7428),0.94,0.7678572,0.6935484,0.86,0.9996196
+154,"Pekinese, Pekingese, Peke",tensor(0.7428),0.94,0.82,0.82,0.82,0.9998198
+155,Shih-Tzu,tensor(0.7428),0.94,0.7070707,0.71428573,0.7,0.99971974
+156,Blenheim spaniel,tensor(0.7428),0.98,0.9108911,0.9019608,0.92,0.9998999
+157,papillon,tensor(0.7428),0.98,0.8679245,0.8214286,0.92,0.9997998
+158,toy terrier,tensor(0.7428),0.96,0.72527474,0.80487806,0.66,0.99983984
+159,Rhodesian ridgeback,tensor(0.7428),1.0,0.6126126,0.55737704,0.68,0.99945945
+160,"Afghan hound, Afghan",tensor(0.7428),0.98,0.9019608,0.88461536,0.92,0.9998799
+161,"basset, basset hound",tensor(0.7428),0.98,0.83018863,0.78571427,0.88,0.99975973
+162,beagle,tensor(0.7428),0.98,0.73770493,0.625,0.9,0.99945945
+163,"bloodhound, sleuthhound",tensor(0.7428),0.82,0.6585367,0.84375,0.54,0.9998999
+164,bluetick,tensor(0.7428),0.96,0.85106385,0.90909094,0.8,0.9999199
+165,black-and-tan coonhound,tensor(0.7428),0.84,0.70967746,0.76744187,0.66,0.9997998
+166,"Walker hound, Walker foxhound",tensor(0.7428),1.0,0.72727275,0.6666667,0.8,0.9995996
+167,English foxhound,tensor(0.7428),0.86,0.47887322,0.8095238,0.34,0.9999199
+168,redbone,tensor(0.7428),0.92,0.7422681,0.7659575,0.72,0.99977976
+169,"borzoi, Russian wolfhound",tensor(0.7428),1.0,0.9126213,0.8867925,0.94,0.9998799
+170,Irish wolfhound,tensor(0.7428),0.92,0.6153846,0.68292683,0.56,0.99973977
+171,Italian greyhound,tensor(0.7428),0.96,0.7636364,0.7,0.84,0.99963963
+172,whippet,tensor(0.7428),0.96,0.71428573,0.7291667,0.7,0.99973977
+173,"Ibizan hound, Ibizan Podenco",tensor(0.7428),0.9,0.6534654,0.64705884,0.66,0.99963963
+174,"Norwegian elkhound, elkhound",tensor(0.7428),0.98,0.8932039,0.8679245,0.92,0.99985987
+175,"otterhound, otter hound",tensor(0.7428),0.94,0.82,0.82,0.82,0.9998198
+176,"Saluki, gazelle hound",tensor(0.7428),0.96,0.78787875,0.79591835,0.78,0.9997998
+177,"Scottish deerhound, deerhound",tensor(0.7428),1.0,0.78095245,0.74545455,0.82,0.99971974
+178,Weimaraner,tensor(0.7428),0.94,0.8888889,0.8979592,0.88,0.9998999
+179,"Staffordshire bullterrier, Staffordshire bull terrier",tensor(0.7428),0.94,0.6938775,0.7083333,0.68,0.99971974
+180,"American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",tensor(0.7428),0.92,0.6,0.6,0.6,0.9995996
+181,Bedlington terrier,tensor(0.7428),1.0,0.87234044,0.9318182,0.82,0.9999399
+182,Border terrier,tensor(0.7428),0.96,0.82608694,0.9047619,0.76,0.9999199
+183,Kerry blue terrier,tensor(0.7428),0.96,0.886598,0.9148936,0.86,0.9999199
+184,Irish terrier,tensor(0.7428),0.96,0.7346939,0.75,0.72,0.99975973
+185,Norfolk terrier,tensor(0.7428),0.92,0.72727275,0.7346939,0.72,0.99973977
+186,Norwich terrier,tensor(0.7428),0.98,0.6862745,0.6730769,0.7,0.99965966
+187,Yorkshire terrier,tensor(0.7428),0.9,0.7,0.7,0.7,0.9996997
+188,wire-haired fox terrier,tensor(0.7428),1.0,0.8817204,0.95348835,0.82,0.99995995
+189,Lakeland terrier,tensor(0.7428),0.9,0.72549015,0.71153843,0.74,0.9996997
+190,"Sealyham terrier, Sealyham",tensor(0.7428),0.96,0.9052632,0.95555556,0.86,0.99995995
+191,"Airedale, Airedale terrier",tensor(0.7428),0.9,0.85714287,0.875,0.84,0.9998799
+192,"cairn, cairn terrier",tensor(0.7428),0.96,0.7924529,0.75,0.84,0.99971974
+193,Australian terrier,tensor(0.7428),0.84,0.59090906,0.68421054,0.52,0.99975973
+194,"Dandie Dinmont, Dandie Dinmont terrier",tensor(0.7428),0.94,0.8514852,0.84313726,0.86,0.99983984
+195,"Boston bull, Boston terrier",tensor(0.7428),1.0,0.84615386,0.8148148,0.88,0.9997998
+196,miniature schnauzer,tensor(0.7428),0.96,0.62650603,0.7878788,0.52,0.99985987
+197,giant schnauzer,tensor(0.7428),1.0,0.6464646,0.6530612,0.64,0.99965966
+198,standard schnauzer,tensor(0.7428),0.98,0.76106197,0.6825397,0.86,0.9995996
+199,"Scotch terrier, Scottish terrier, Scottie",tensor(0.7428),0.96,0.7128714,0.7058824,0.72,0.9996997
+200,"Tibetan terrier, chrysanthemum dog",tensor(0.7428),0.98,0.68085104,0.72727275,0.64,0.99975973
+201,"silky terrier, Sydney silky",tensor(0.7428),0.96,0.79999995,0.84444445,0.76,0.99985987
+202,soft-coated wheaten terrier,tensor(0.7428),0.98,0.7818182,0.71666664,0.86,0.99965966
+203,West Highland white terrier,tensor(0.7428),0.98,0.81818175,0.75,0.9,0.9996997
+204,"Lhasa, Lhasa apso",tensor(0.7428),0.94,0.7010309,0.7234042,0.68,0.99973977
+205,flat-coated retriever,tensor(0.7428),0.92,0.71428573,0.7291667,0.7,0.99973977
+206,curly-coated retriever,tensor(0.7428),0.94,0.84,0.84,0.84,0.99983984
+207,golden retriever,tensor(0.7428),0.98,0.77192986,0.6875,0.88,0.9995996
+208,Labrador retriever,tensor(0.7428),0.94,0.7962963,0.7413793,0.86,0.9996997
+209,Chesapeake Bay retriever,tensor(0.7428),0.92,0.8125,0.84782606,0.78,0.99985987
+210,German short-haired pointer,tensor(0.7428),0.96,0.8518518,0.79310346,0.92,0.99975973
+211,"vizsla, Hungarian pointer",tensor(0.7428),0.92,0.7407407,0.6896552,0.8,0.99963963
+212,English setter,tensor(0.7428),0.94,0.71999997,0.72,0.72,0.99971974
+213,"Irish setter, red setter",tensor(0.7428),0.94,0.79591835,0.8125,0.78,0.9998198
+214,Gordon setter,tensor(0.7428),0.94,0.86,0.86,0.86,0.99985987
+215,Brittany spaniel,tensor(0.7428),0.96,0.7663551,0.71929824,0.82,0.9996797
+216,"clumber, clumber spaniel",tensor(0.7428),0.98,0.8737864,0.8490566,0.9,0.99983984
+217,"English springer, English springer spaniel",tensor(0.7428),0.98,0.84615386,0.8148148,0.88,0.9997998
+218,Welsh springer spaniel,tensor(0.7428),1.0,0.8598131,0.80701756,0.92,0.99977976
+219,"cocker spaniel, English cocker spaniel, cocker",tensor(0.7428),0.92,0.71428573,0.7291667,0.7,0.99973977
+220,Sussex spaniel,tensor(0.7428),0.94,0.7916667,0.82608694,0.76,0.99983984
+221,Irish water spaniel,tensor(0.7428),0.98,0.8453609,0.87234044,0.82,0.9998799
+222,kuvasz,tensor(0.7428),0.92,0.6875,0.7173913,0.66,0.99973977
+223,schipperke,tensor(0.7428),0.96,0.81132066,0.76785713,0.86,0.99973977
+224,groenendael,tensor(0.7428),1.0,0.79591835,0.8125,0.78,0.9998198
+225,malinois,tensor(0.7428),0.98,0.8305085,0.7205882,0.98,0.9996196
+226,briard,tensor(0.7428),0.8,0.60465115,0.7222222,0.52,0.9997998
+227,kelpie,tensor(0.7428),0.92,0.6862745,0.6730769,0.7,0.99965966
+228,komondor,tensor(0.7428),0.94,0.8627451,0.84615386,0.88,0.99983984
+229,"Old English sheepdog, bobtail",tensor(0.7428),0.98,0.8679245,0.8214286,0.92,0.9997998
+230,"Shetland sheepdog, Shetland sheep dog, Shetland",tensor(0.7428),0.94,0.70967746,0.76744187,0.66,0.9997998
+231,collie,tensor(0.7428),0.96,0.59047616,0.56363636,0.62,0.9995195
+232,Border collie,tensor(0.7428),0.94,0.73214287,0.66129035,0.82,0.9995796
+233,"Bouvier des Flandres, Bouviers des Flandres",tensor(0.7428),0.96,0.69767445,0.56962025,0.9,0.9993193
+234,Rottweiler,tensor(0.7428),0.96,0.7058824,0.6923077,0.72,0.9996797
+235,"German shepherd, German shepherd dog, German police dog, alsatian",tensor(0.7428),0.96,0.80373836,0.75438595,0.86,0.99971974
+236,"Doberman, Doberman pinscher",tensor(0.7428),0.92,0.7083334,0.73913044,0.68,0.99975973
+237,miniature pinscher,tensor(0.7428),0.88,0.75,0.7826087,0.72,0.9997998
+238,Greater Swiss Mountain dog,tensor(0.7428),0.92,0.57142854,0.516129,0.64,0.9993994
+239,Bernese mountain dog,tensor(0.7428),1.0,0.8990826,0.8305085,0.98,0.9997998
+240,Appenzeller,tensor(0.7428),1.0,0.40476188,0.5,0.34,0.99965966
+241,EntleBucher,tensor(0.7428),0.96,0.71153843,0.6851852,0.74,0.99965966
+242,boxer,tensor(0.7428),0.92,0.70329666,0.7804878,0.64,0.9998198
+243,bull mastiff,tensor(0.7428),0.98,0.8,0.76363635,0.84,0.99973977
+244,Tibetan mastiff,tensor(0.7428),1.0,0.92307687,0.8888889,0.96,0.9998799
+245,French bulldog,tensor(0.7428),0.98,0.8543689,0.8301887,0.88,0.9998198
+246,Great Dane,tensor(0.7428),0.94,0.6666667,0.67346936,0.66,0.9996797
+247,"Saint Bernard, St Bernard",tensor(0.7428),1.0,0.9215687,0.90384614,0.94,0.9998999
+248,"Eskimo dog, husky",tensor(0.7428),0.96,0.39506173,0.516129,0.32,0.9996997
+249,"malamute, malemute, Alaskan malamute",tensor(0.7428),0.96,0.6868687,0.6938776,0.68,0.9996997
+250,Siberian husky,tensor(0.7428),0.98,0.51282054,0.4477612,0.6,0.99925923
+251,"dalmatian, coach dog, carriage dog",tensor(0.7428),1.0,0.9411765,0.9230769,0.96,0.9999199
+252,"affenpinscher, monkey pinscher, monkey dog",tensor(0.7428),0.96,0.8125,0.84782606,0.78,0.99985987
+253,basenji,tensor(0.7428),0.98,0.8543689,0.8301887,0.88,0.9998198
+254,"pug, pug-dog",tensor(0.7428),1.0,0.9423077,0.9074074,0.98,0.9998999
+255,Leonberg,tensor(0.7428),1.0,0.9708738,0.9433962,1.0,0.9999399
+256,"Newfoundland, Newfoundland dog",tensor(0.7428),0.94,0.7924529,0.75,0.84,0.99971974
+257,Great Pyrenees,tensor(0.7428),0.96,0.75728154,0.7358491,0.78,0.99971974
+258,"Samoyed, Samoyede",tensor(0.7428),1.0,0.94,0.94,0.94,0.9999399
+259,Pomeranian,tensor(0.7428),1.0,0.9411765,0.9230769,0.96,0.9999199
+260,"chow, chow chow",tensor(0.7428),0.98,0.9108911,0.9019608,0.92,0.9998999
+261,keeshond,tensor(0.7428),0.98,0.9052632,0.95555556,0.86,0.99995995
+262,Brabancon griffon,tensor(0.7428),0.98,0.86956525,0.95238096,0.8,0.99995995
+263,"Pembroke, Pembroke Welsh corgi",tensor(0.7428),0.96,0.7522935,0.69491524,0.82,0.99963963
+264,"Cardigan, Cardigan Welsh corgi",tensor(0.7428),0.96,0.7191011,0.82051283,0.64,0.99985987
+265,toy poodle,tensor(0.7428),0.9,0.5625,0.5869565,0.54,0.9996196
+266,miniature poodle,tensor(0.7428),0.96,0.59183675,0.6041667,0.58,0.9996196
+267,standard poodle,tensor(0.7428),1.0,0.80733943,0.7457627,0.88,0.9996997
+268,Mexican hairless,tensor(0.7428),1.0,0.92,0.92,0.92,0.9999199
+269,"timber wolf, grey wolf, gray wolf, Canis lupus",tensor(0.7428),0.94,0.7378641,0.7169811,0.76,0.9996997
+270,"white wolf, Arctic wolf, Canis lupus tundrarum",tensor(0.7428),0.98,0.8,0.73333335,0.88,0.9996797
+271,"red wolf, maned wolf, Canis rufus, Canis niger",tensor(0.7428),0.94,0.65168536,0.74358976,0.58,0.9997998
+272,"coyote, prairie wolf, brush wolf, Canis latrans",tensor(0.7428),0.86,0.65384614,0.6296296,0.68,0.9995996
+273,"dingo, warrigal, warragal, Canis dingo",tensor(0.7428),0.9,0.72897196,0.68421054,0.78,0.99963963
+274,"dhole, Cuon alpinus",tensor(0.7428),0.98,0.8867925,0.83928573,0.94,0.9998198
+275,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",tensor(0.7428),1.0,0.9607843,0.9423077,0.98,0.9999399
+276,"hyena, hyaena",tensor(0.7428),0.98,0.92,0.92,0.92,0.9999199
+277,"red fox, Vulpes vulpes",tensor(0.7428),0.94,0.59615386,0.5740741,0.62,0.99953955
+278,"kit fox, Vulpes macrotis",tensor(0.7428),0.98,0.5744681,0.6136364,0.54,0.99965966
+279,"Arctic fox, white fox, Alopex lagopus",tensor(0.7428),0.98,0.8952381,0.8545455,0.94,0.99983984
+280,"grey fox, gray fox, Urocyon cinereoargenteus",tensor(0.7428),1.0,0.6857143,0.6545454,0.72,0.9996196
+281,"tabby, tabby cat",tensor(0.7428),0.94,0.5981308,0.5614035,0.64,0.9994995
+282,tiger cat,tensor(0.7428),0.88,0.3030303,0.625,0.2,0.9998799
+283,Persian cat,tensor(0.7428),1.0,0.8737864,0.8490566,0.9,0.99983984
+284,"Siamese cat, Siamese",tensor(0.7428),1.0,0.8571428,0.8181818,0.9,0.9997998
+285,Egyptian cat,tensor(0.7428),0.82,0.5233645,0.49122807,0.56,0.9994194
+286,"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",tensor(0.7428),0.96,0.8910891,0.88235295,0.9,0.9998799
+287,"lynx, catamount",tensor(0.7428),0.94,0.7010309,0.7234042,0.68,0.99973977
+288,"leopard, Panthera pardus",tensor(0.7428),1.0,0.80808085,0.81632656,0.8,0.9998198
+289,"snow leopard, ounce, Panthera uncia",tensor(0.7428),1.0,0.886598,0.9148936,0.86,0.9999199
+290,"jaguar, panther, Panthera onca, Felis onca",tensor(0.7428),0.98,0.81632656,0.8333333,0.8,0.99983984
+291,"lion, king of beasts, Panthera leo",tensor(0.7428),0.98,0.9514563,0.9245283,0.98,0.9999199
+292,"tiger, Panthera tigris",tensor(0.7428),1.0,0.8392857,0.7580645,0.94,0.9996997
+293,"cheetah, chetah, Acinonyx jubatus",tensor(0.7428),0.98,0.8867925,0.83928573,0.94,0.9998198
+294,"brown bear, bruin, Ursus arctos",tensor(0.7428),0.98,0.8703704,0.8103448,0.94,0.99977976
+295,"American black bear, black bear, Ursus americanus, Euarctos americanus",tensor(0.7428),0.98,0.79279274,0.72131145,0.88,0.99965966
+296,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",tensor(0.7428),0.98,0.9292929,0.93877554,0.92,0.9999399
+297,"sloth bear, Melursus ursinus, Ursus ursinus",tensor(0.7428),0.94,0.8387097,0.90697676,0.78,0.9999199
+298,mongoose,tensor(0.7428),0.88,0.7799999,0.78,0.78,0.99977976
+299,"meerkat, mierkat",tensor(0.7428),0.92,0.82828283,0.8367347,0.82,0.99983984
+300,tiger beetle,tensor(0.7428),0.94,0.8703704,0.8103448,0.94,0.99977976
+301,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",tensor(0.7428),0.96,0.84112155,0.7894737,0.9,0.99975973
+302,"ground beetle, carabid beetle",tensor(0.7428),0.98,0.70329666,0.7804878,0.64,0.9998198
+303,"long-horned beetle, longicorn, longicorn beetle",tensor(0.7428),0.94,0.7216495,0.7446808,0.7,0.99975973
+304,"leaf beetle, chrysomelid",tensor(0.7428),1.0,0.68888885,0.775,0.62,0.9998198
+305,dung beetle,tensor(0.7428),0.98,0.8,0.76363635,0.84,0.99973977
+306,rhinoceros beetle,tensor(0.7428),0.96,0.877551,0.8958333,0.86,0.9998999
+307,weevil,tensor(0.7428),0.98,0.8888889,0.8979592,0.88,0.9998999
+308,fly,tensor(0.7428),0.92,0.8172043,0.88372093,0.76,0.9998999
+309,bee,tensor(0.7428),0.92,0.78350514,0.80851066,0.76,0.9998198
+310,"ant, emmet, pismire",tensor(0.7428),0.82,0.65979373,0.68085104,0.64,0.9996997
+311,"grasshopper, hopper",tensor(0.7428),0.92,0.6122449,0.625,0.6,0.99963963
+312,cricket,tensor(0.7428),0.94,0.6019417,0.5849057,0.62,0.9995596
+313,"walking stick, walkingstick, stick insect",tensor(0.7428),0.88,0.6868687,0.6938776,0.68,0.9996997
+314,"cockroach, roach",tensor(0.7428),0.88,0.7083334,0.73913044,0.68,0.99975973
+315,"mantis, mantid",tensor(0.7428),0.92,0.7173913,0.78571427,0.66,0.9998198
+316,"cicada, cicala",tensor(0.7428),0.98,0.8440367,0.779661,0.92,0.99973977
+317,leafhopper,tensor(0.7428),1.0,0.8888889,0.8979592,0.88,0.9998999
+318,"lacewing, lacewing fly",tensor(0.7428),0.92,0.83168316,0.8235294,0.84,0.9998198
+319,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",tensor(0.7428),0.98,0.77894735,0.82222223,0.74,0.99983984
+320,damselfly,tensor(0.7428),0.98,0.8118812,0.8039216,0.82,0.9997998
+321,admiral,tensor(0.7428),0.96,0.9591837,0.9791667,0.94,0.99998
+322,"ringlet, ringlet butterfly",tensor(0.7428),1.0,0.9126213,0.8867925,0.94,0.9998799
+323,"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",tensor(0.7428),0.94,0.9583333,1.0,0.92,1.0
+324,cabbage butterfly,tensor(0.7428),1.0,0.94,0.94,0.94,0.9999399
+325,"sulphur butterfly, sulfur butterfly",tensor(0.7428),0.98,0.9591837,0.9791667,0.94,0.99998
+326,"lycaenid, lycaenid butterfly",tensor(0.7428),0.98,0.90322584,0.9767442,0.84,0.99998
+327,"starfish, sea star",tensor(0.7428),0.92,0.89795923,0.9166667,0.88,0.9999199
+328,sea urchin,tensor(0.7428),0.96,0.875,0.9130435,0.84,0.9999199
+329,"sea cucumber, holothurian",tensor(0.7428),0.9,0.7708334,0.8043478,0.74,0.9998198
+330,"wood rabbit, cottontail, cottontail rabbit",tensor(0.7428),0.96,0.7474748,0.75510204,0.74,0.99975973
+331,hare,tensor(0.7428),1.0,0.82242984,0.7719298,0.88,0.99973977
+332,"Angora, Angora rabbit",tensor(0.7428),1.0,0.9320388,0.9056604,0.96,0.9998999
+333,hamster,tensor(0.7428),1.0,0.92592597,0.86206895,1.0,0.99983984
+334,"porcupine, hedgehog",tensor(0.7428),0.98,0.886598,0.9148936,0.86,0.9999199
+335,"fox squirrel, eastern fox squirrel, Sciurus niger",tensor(0.7428),0.96,0.8269231,0.7962963,0.86,0.99977976
+336,marmot,tensor(0.7428),0.96,0.86238533,0.7966102,0.94,0.99975973
+337,beaver,tensor(0.7428),0.98,0.8333334,0.8695652,0.8,0.9998799
+338,"guinea pig, Cavia cobaya",tensor(0.7428),0.92,0.8297872,0.8863636,0.78,0.9998999
+339,sorrel,tensor(0.7428),0.98,0.97029704,0.9607843,0.98,0.99995995
+340,zebra,tensor(0.7428),0.96,0.9591837,0.9791667,0.94,0.99998
+341,"hog, pig, grunter, squealer, Sus scrofa",tensor(0.7428),0.84,0.6436782,0.7567568,0.56,0.9998198
+342,"wild boar, boar, Sus scrofa",tensor(0.7428),1.0,0.8333333,0.7758621,0.9,0.99973977
+343,warthog,tensor(0.7428),0.98,0.8952381,0.8545455,0.94,0.99983984
+344,"hippopotamus, hippo, river horse, Hippopotamus amphibius",tensor(0.7428),0.96,0.875,0.9130435,0.84,0.9999199
+345,ox,tensor(0.7428),0.98,0.63414633,0.8125,0.52,0.9998799
+346,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",tensor(0.7428),0.94,0.7676767,0.7755102,0.76,0.99977976
+347,bison,tensor(0.7428),0.96,0.9,0.9,0.9,0.9998999
+348,"ram, tup",tensor(0.7428),0.92,0.5633803,0.95238096,0.4,0.99998
+349,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",tensor(0.7428),1.0,0.75969,0.62025315,0.98,0.9993994
+350,"ibex, Capra ibex",tensor(0.7428),0.98,0.9215687,0.90384614,0.94,0.9998999
+351,hartebeest,tensor(0.7428),1.0,0.9,0.9,0.9,0.9998999
+352,"impala, Aepyceros melampus",tensor(0.7428),0.98,0.81904763,0.7818182,0.86,0.99975973
+353,gazelle,tensor(0.7428),0.98,0.74725276,0.8292683,0.68,0.99985987
+354,"Arabian camel, dromedary, Camelus dromedarius",tensor(0.7428),1.0,0.8990826,0.8305085,0.98,0.9997998
+355,llama,tensor(0.7428),0.92,0.8842105,0.93333334,0.84,0.9999399
+356,weasel,tensor(0.7428),0.96,0.53658533,0.6875,0.44,0.9997998
+357,mink,tensor(0.7428),0.94,0.754717,0.71428573,0.8,0.9996797
+358,"polecat, fitch, foulmart, foumart, Mustela putorius",tensor(0.7428),0.94,0.49504948,0.49019608,0.5,0.9994795
+359,"black-footed ferret, ferret, Mustela nigripes",tensor(0.7428),0.96,0.64,0.64,0.64,0.99963963
+360,otter,tensor(0.7428),0.96,0.8041237,0.82978725,0.78,0.99983984
+361,"skunk, polecat, wood pussy",tensor(0.7428),0.98,0.9423077,0.9074074,0.98,0.9998999
+362,badger,tensor(0.7428),0.98,0.8737864,0.8490566,0.9,0.99983984
+363,armadillo,tensor(0.7428),0.94,0.8823529,0.86538464,0.9,0.99985987
+364,"three-toed sloth, ai, Bradypus tridactylus",tensor(0.7428),1.0,0.95238096,0.90909094,1.0,0.9998999
+365,"orangutan, orang, orangutang, Pongo pygmaeus",tensor(0.7428),0.96,0.9292929,0.93877554,0.92,0.9999399
+366,"gorilla, Gorilla gorilla",tensor(0.7428),0.92,0.847826,0.9285714,0.78,0.9999399
+367,"chimpanzee, chimp, Pan troglodytes",tensor(0.7428),0.96,0.8653845,0.8333333,0.9,0.9998198
+368,"gibbon, Hylobates lar",tensor(0.7428),0.92,0.7551021,0.7708333,0.74,0.99977976
+369,"siamang, Hylobates syndactylus, Symphalangus syndactylus",tensor(0.7428),0.94,0.8627451,0.84615386,0.88,0.99983984
+370,"guenon, guenon monkey",tensor(0.7428),0.94,0.8453609,0.87234044,0.82,0.9998799
+371,"patas, hussar monkey, Erythrocebus patas",tensor(0.7428),0.86,0.6938775,0.7083333,0.68,0.99971974
+372,baboon,tensor(0.7428),0.98,0.8288289,0.75409836,0.92,0.9996997
+373,macaque,tensor(0.7428),0.86,0.7378641,0.7169811,0.76,0.9996997
+374,langur,tensor(0.7428),0.9,0.7333333,0.825,0.66,0.99985987
+375,"colobus, colobus monkey",tensor(0.7428),0.92,0.9148936,0.97727275,0.86,0.99998
+376,"proboscis monkey, Nasalis larvatus",tensor(0.7428),1.0,0.92592597,0.86206895,1.0,0.99983984
+377,marmoset,tensor(0.7428),0.88,0.7311828,0.7906977,0.68,0.9998198
+378,"capuchin, ringtail, Cebus capucinus",tensor(0.7428),0.94,0.77777773,0.7241379,0.84,0.9996797
+379,"howler monkey, howler",tensor(0.7428),0.96,0.80373836,0.75438595,0.86,0.99971974
+380,"titi, titi monkey",tensor(0.7428),0.98,0.6168225,0.57894737,0.66,0.9995195
+381,"spider monkey, Ateles geoffroyi",tensor(0.7428),0.9,0.5063291,0.6896552,0.4,0.9998198
+382,"squirrel monkey, Saimiri sciureus",tensor(0.7428),0.92,0.6363636,0.5833333,0.7,0.9994995
+383,"Madagascar cat, ring-tailed lemur, Lemur catta",tensor(0.7428),0.94,0.8,0.9,0.72,0.9999199
+384,"indri, indris, Indri indri, Indri brevicaudatus",tensor(0.7428),1.0,0.8070175,0.71875,0.92,0.99963963
+385,"Indian elephant, Elephas maximus",tensor(0.7428),0.98,0.5360825,0.5531915,0.52,0.9995796
+386,"African elephant, Loxodonta africana",tensor(0.7428),1.0,0.60240966,0.75757575,0.5,0.99983984
+387,"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",tensor(0.7428),0.98,0.94,0.94,0.94,0.9999399
+388,"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",tensor(0.7428),0.96,0.9292929,0.93877554,0.92,0.9999399
+389,"barracouta, snoek",tensor(0.7428),0.94,0.82,0.82,0.82,0.9998198
+390,eel,tensor(0.7428),0.86,0.75862074,0.8918919,0.66,0.9999199
+391,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",tensor(0.7428),0.96,0.8297872,0.8863636,0.78,0.9998999
+392,"rock beauty, Holocanthus tricolor",tensor(0.7428),1.0,0.95049506,0.9411765,0.96,0.9999399
+393,anemone fish,tensor(0.7428),0.96,0.8958333,0.9347826,0.86,0.9999399
+394,sturgeon,tensor(0.7428),0.88,0.74,0.74,0.74,0.99973977
+395,"gar, garfish, garpike, billfish, Lepisosteus osseus",tensor(0.7428),0.82,0.6464646,0.6530612,0.64,0.99965966
+396,lionfish,tensor(0.7428),0.96,0.9306931,0.92156863,0.94,0.9999199
+397,"puffer, pufferfish, blowfish, globefish",tensor(0.7428),0.94,0.88,0.88,0.88,0.9998799
+398,abacus,tensor(0.7428),0.9,0.8333334,0.8695652,0.8,0.9998799
+399,abaya,tensor(0.7428),0.96,0.80373836,0.75438595,0.86,0.99971974
+400,"academic gown, academic robe, judge's robe",tensor(0.7428),0.88,0.5555555,0.51724136,0.6,0.9994394
+401,"accordion, piano accordion, squeeze box",tensor(0.7428),0.94,0.8484848,0.85714287,0.84,0.99985987
+402,acoustic guitar,tensor(0.7428),0.78,0.5977011,0.7027027,0.52,0.99977976
+403,"aircraft carrier, carrier, flattop, attack aircraft carrier",tensor(0.7428),0.96,0.8431373,0.8269231,0.86,0.9998198
+404,airliner,tensor(0.7428),1.0,0.8468469,0.7704918,0.94,0.99971974
+405,"airship, dirigible",tensor(0.7428),0.94,0.8453609,0.87234044,0.82,0.9998799
+406,altar,tensor(0.7428),0.98,0.6785714,0.61290324,0.76,0.9995195
+407,ambulance,tensor(0.7428),0.98,0.8135593,0.7058824,0.96,0.9995996
+408,"amphibian, amphibious vehicle",tensor(0.7428),0.9,0.7422681,0.7659575,0.72,0.99977976
+409,analog clock,tensor(0.7428),0.98,0.6,0.55,0.66,0.99945945
+410,"apiary, bee house",tensor(0.7428),0.96,0.80373836,0.75438595,0.86,0.99971974
+411,apron,tensor(0.7428),0.88,0.70454544,0.81578946,0.62,0.99985987
+412,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",tensor(0.7428),0.82,0.5,0.54761904,0.46,0.9996196
+413,"assault rifle, assault gun",tensor(0.7428),0.9,0.5416667,0.5652174,0.52,0.9995996
+414,"backpack, back pack, knapsack, packsack, rucksack, haversack",tensor(0.7428),0.7,0.5121951,0.65625,0.42,0.99977976
+415,"bakery, bakeshop, bakehouse",tensor(0.7428),0.64,0.32258064,0.3488372,0.3,0.9994394
+416,"balance beam, beam",tensor(0.7428),0.98,0.77966106,0.6764706,0.92,0.9995596
+417,balloon,tensor(0.7428),0.96,0.8440367,0.779661,0.92,0.99973977
+418,"ballpoint, ballpoint pen, ballpen, Biro",tensor(0.7428),0.96,0.64077675,0.6226415,0.66,0.9995996
+419,Band Aid,tensor(0.7428),0.94,0.6938775,0.7083333,0.68,0.99971974
+420,banjo,tensor(0.7428),0.92,0.8514852,0.84313726,0.86,0.99983984
+421,"bannister, banister, balustrade, balusters, handrail",tensor(0.7428),0.96,0.6666666,0.58208954,0.78,0.9994394
+422,barbell,tensor(0.7428),0.92,0.6530613,0.6666667,0.64,0.9996797
+423,barber chair,tensor(0.7428),0.98,0.77477473,0.704918,0.86,0.99963963
+424,barbershop,tensor(0.7428),0.86,0.44705883,0.54285717,0.38,0.9996797
+425,barn,tensor(0.7428),0.96,0.9411765,0.9230769,0.96,0.9999199
+426,barometer,tensor(0.7428),0.98,0.8627451,0.84615386,0.88,0.99983984
+427,"barrel, cask",tensor(0.7428),0.94,0.7157895,0.75555557,0.68,0.99977976
+428,"barrow, garden cart, lawn cart, wheelbarrow",tensor(0.7428),0.86,0.776699,0.754717,0.8,0.99973977
+429,baseball,tensor(0.7428),0.98,0.82474226,0.85106385,0.8,0.99985987
+430,basketball,tensor(0.7428),0.98,0.9583333,1.0,0.92,1.0
+431,bassinet,tensor(0.7428),0.96,0.6956522,0.61538464,0.8,0.9994995
+432,bassoon,tensor(0.7428),0.98,0.81553394,0.7924528,0.84,0.99977976
+433,"bathing cap, swimming cap",tensor(0.7428),0.92,0.65217394,0.71428573,0.6,0.99975973
+434,bath towel,tensor(0.7428),0.8,0.6976744,0.8333333,0.6,0.9998799
+435,"bathtub, bathing tub, bath, tub",tensor(0.7428),0.86,0.44247785,0.3968254,0.5,0.99923927
+436,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",tensor(0.7428),0.82,0.6138614,0.60784316,0.62,0.9995996
+437,"beacon, lighthouse, beacon light, pharos",tensor(0.7428),0.96,0.8349515,0.8113208,0.86,0.9997998
+438,beaker,tensor(0.7428),0.74,0.6292135,0.71794873,0.56,0.99977976
+439,"bearskin, busby, shako",tensor(0.7428),0.98,0.8653845,0.8333333,0.9,0.9998198
+440,beer bottle,tensor(0.7428),0.9,0.6666667,0.7209302,0.62,0.99975973
+441,beer glass,tensor(0.7428),0.88,0.6336633,0.627451,0.64,0.9996196
+442,"bell cote, bell cot",tensor(0.7428),1.0,0.656,0.5466667,0.82,0.9993193
+443,bib,tensor(0.7428),0.82,0.7191011,0.82051283,0.64,0.99985987
+444,"bicycle-built-for-two, tandem bicycle, tandem",tensor(0.7428),0.94,0.7592593,0.70689654,0.82,0.99965966
+445,"bikini, two-piece",tensor(0.7428),0.92,0.5607477,0.5263158,0.6,0.99945945
+446,"binder, ring-binder",tensor(0.7428),0.96,0.6875,0.7173913,0.66,0.99973977
+447,"binoculars, field glasses, opera glasses",tensor(0.7428),0.78,0.61702126,0.65909094,0.58,0.9996997
+448,birdhouse,tensor(0.7428),0.92,0.78095245,0.74545455,0.82,0.99971974
+449,boathouse,tensor(0.7428),0.96,0.7368421,0.65625,0.84,0.9995596
+450,"bobsled, bobsleigh, bob",tensor(0.7428),0.96,0.8703704,0.8103448,0.94,0.99977976
+451,"bolo tie, bolo, bola tie, bola",tensor(0.7428),0.94,0.8712871,0.8627451,0.88,0.99985987
+452,"bonnet, poke bonnet",tensor(0.7428),0.88,0.6857143,0.6545454,0.72,0.9996196
+453,bookcase,tensor(0.7428),0.96,0.60377353,0.5714286,0.64,0.9995195
+454,"bookshop, bookstore, bookstall",tensor(0.7428),0.84,0.48275864,0.5675676,0.42,0.9996797
+455,bottlecap,tensor(0.7428),0.74,0.6813187,0.75609756,0.62,0.9997998
+456,bow,tensor(0.7428),0.9,0.6495727,0.5671642,0.76,0.9994194
+457,"bow tie, bow-tie, bowtie",tensor(0.7428),0.84,0.7191011,0.82051283,0.64,0.99985987
+458,"brass, memorial tablet, plaque",tensor(0.7428),0.96,0.86868685,0.877551,0.86,0.9998799
+459,"brassiere, bra, bandeau",tensor(0.7428),0.82,0.68181825,0.7894737,0.6,0.99983984
+460,"breakwater, groin, groyne, mole, bulwark, seawall, jetty",tensor(0.7428),0.86,0.6896552,0.8108108,0.6,0.99985987
+461,"breastplate, aegis, egis",tensor(0.7428),0.92,0.45238093,0.5588235,0.38,0.9996997
+462,broom,tensor(0.7428),0.88,0.7446809,0.79545456,0.7,0.9998198
+463,"bucket, pail",tensor(0.7428),0.9,0.55102044,0.5625,0.54,0.9995796
+464,buckle,tensor(0.7428),0.7,0.62650603,0.7878788,0.52,0.99985987
+465,bulletproof vest,tensor(0.7428),0.88,0.6868687,0.6938776,0.68,0.9996997
+466,"bullet train, bullet",tensor(0.7428),0.98,0.9514563,0.9245283,0.98,0.9999199
+467,"butcher shop, meat market",tensor(0.7428),0.9,0.7083334,0.73913044,0.68,0.99975973
+468,"cab, hack, taxi, taxicab",tensor(0.7428),0.86,0.7446809,0.79545456,0.7,0.9998198
+469,"caldron, cauldron",tensor(0.7428),0.88,0.5470086,0.47761193,0.64,0.9992993
+470,"candle, taper, wax light",tensor(0.7428),0.88,0.58407086,0.52380955,0.66,0.9993994
+471,cannon,tensor(0.7428),0.96,0.8888889,0.8979592,0.88,0.9998999
+472,canoe,tensor(0.7428),1.0,0.8275862,0.72727275,0.96,0.99963963
+473,"can opener, tin opener",tensor(0.7428),0.92,0.6363636,0.5833333,0.7,0.9994995
+474,cardigan,tensor(0.7428),0.88,0.7307693,0.7037037,0.76,0.9996797
+475,car mirror,tensor(0.7428),0.96,0.86238533,0.7966102,0.94,0.99975973
+476,"carousel, carrousel, merry-go-round, roundabout, whirligig",tensor(0.7428),0.96,0.9056604,0.85714287,0.96,0.99983984
+477,"carpenter's kit, tool kit",tensor(0.7428),0.82,0.544,0.45333335,0.68,0.9991792
+478,carton,tensor(0.7428),0.82,0.54545456,0.5510204,0.54,0.9995596
+479,car wheel,tensor(0.7428),0.8,0.5479452,0.8695652,0.4,0.9999399
+480,"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",tensor(0.7428),0.88,0.72072077,0.6557377,0.8,0.9995796
+481,cassette,tensor(0.7428),0.84,0.7111111,0.8,0.64,0.99983984
+482,cassette player,tensor(0.7428),0.94,0.32941177,0.4,0.28,0.9995796
+483,castle,tensor(0.7428),0.86,0.7,0.7,0.7,0.9996997
+484,catamaran,tensor(0.7428),1.0,0.7083334,0.73913044,0.68,0.99975973
+485,CD player,tensor(0.7428),0.86,0.43373495,0.54545456,0.36,0.9996997
+486,"cello, violoncello",tensor(0.7428),0.98,0.9183674,0.9375,0.9,0.9999399
+487,"cellular telephone, cellular phone, cellphone, cell, mobile phone",tensor(0.7428),0.84,0.63461536,0.6111111,0.66,0.9995796
+488,chain,tensor(0.7428),0.74,0.40506327,0.55172414,0.32,0.99973977
+489,chainlink fence,tensor(0.7428),0.82,0.6938775,0.7083333,0.68,0.99971974
+490,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",tensor(0.7428),0.86,0.75294113,0.9142857,0.64,0.9999399
+491,"chain saw, chainsaw",tensor(0.7428),0.88,0.83146065,0.94871795,0.74,0.99995995
+492,chest,tensor(0.7428),0.88,0.7010309,0.7234042,0.68,0.99973977
+493,"chiffonier, commode",tensor(0.7428),0.66,0.5063291,0.6896552,0.4,0.9998198
+494,"chime, bell, gong",tensor(0.7428),0.84,0.57142854,0.63414633,0.52,0.9996997
+495,"china cabinet, china closet",tensor(0.7428),0.94,0.82,0.82,0.82,0.9998198
+496,Christmas stocking,tensor(0.7428),0.94,0.8431373,0.8269231,0.86,0.9998198
+497,"church, church building",tensor(0.7428),0.84,0.4883721,0.5833333,0.42,0.9996997
+498,"cinema, movie theater, movie theatre, movie house, picture palace",tensor(0.7428),0.9,0.6666667,0.65384614,0.68,0.99963963
+499,"cleaver, meat cleaver, chopper",tensor(0.7428),0.84,0.41463414,0.53125,0.34,0.9996997
+500,cliff dwelling,tensor(0.7428),0.96,0.9019608,0.88461536,0.92,0.9998799
+501,cloak,tensor(0.7428),0.7,0.4691358,0.61290324,0.38,0.99975973
+502,"clog, geta, patten, sabot",tensor(0.7428),0.86,0.76086956,0.8333333,0.7,0.99985987
+503,cocktail shaker,tensor(0.7428),0.88,0.6292135,0.71794873,0.56,0.99977976
+504,coffee mug,tensor(0.7428),0.78,0.5192308,0.5,0.54,0.99945945
+505,coffeepot,tensor(0.7428),0.88,0.58620685,0.5151515,0.68,0.99935937
+506,"coil, spiral, volute, whorl, helix",tensor(0.7428),0.92,0.7083334,0.73913044,0.68,0.99975973
+507,combination lock,tensor(0.7428),0.84,0.68085104,0.72727275,0.64,0.99975973
+508,"computer keyboard, keypad",tensor(0.7428),0.84,0.5981308,0.5614035,0.64,0.9994995
+509,"confectionery, confectionary, candy store",tensor(0.7428),0.9,0.517647,0.62857145,0.44,0.99973977
+510,"container ship, containership, container vessel",tensor(0.7428),0.98,0.84905666,0.8035714,0.9,0.99977976
+511,convertible,tensor(0.7428),0.96,0.69902915,0.6792453,0.72,0.99965966
+512,"corkscrew, bottle screw",tensor(0.7428),0.98,0.88,0.88,0.88,0.9998799
+513,"cornet, horn, trumpet, trump",tensor(0.7428),0.84,0.6741574,0.7692308,0.6,0.9998198
+514,cowboy boot,tensor(0.7428),0.84,0.75294113,0.9142857,0.64,0.9999399
+515,"cowboy hat, ten-gallon hat",tensor(0.7428),0.9,0.62745094,0.61538464,0.64,0.9995996
+516,cradle,tensor(0.7428),0.88,0.4,0.45,0.36,0.9995596
+517,crane,tensor(0.7428),1.0,0.77358484,0.73214287,0.82,0.9996997
+518,crash helmet,tensor(0.7428),1.0,0.80357146,0.7258065,0.9,0.99965966
+519,crate,tensor(0.7428),0.84,0.57894737,0.515625,0.66,0.9993794
+520,"crib, cot",tensor(0.7428),0.98,0.776699,0.754717,0.8,0.99973977
+521,Crock Pot,tensor(0.7428),0.94,0.79120886,0.8780488,0.72,0.9998999
+522,croquet ball,tensor(0.7428),1.0,0.7627118,0.6617647,0.9,0.99953955
+523,crutch,tensor(0.7428),0.74,0.45045045,0.40983605,0.5,0.99927926
+524,cuirass,tensor(0.7428),0.88,0.49523807,0.47272727,0.52,0.9994194
+525,"dam, dike, dyke",tensor(0.7428),0.94,0.76190484,0.72727275,0.8,0.9996997
+526,desk,tensor(0.7428),0.98,0.46153846,0.3548387,0.66,0.9987988
+527,desktop computer,tensor(0.7428),0.98,0.49253732,0.39285713,0.66,0.998979
+528,"dial telephone, dial phone",tensor(0.7428),0.96,0.9183674,0.9375,0.9,0.9999399
+529,"diaper, nappy, napkin",tensor(0.7428),0.86,0.626087,0.5538462,0.72,0.9994194
+530,digital clock,tensor(0.7428),0.86,0.6666667,0.75,0.6,0.9997998
+531,digital watch,tensor(0.7428),0.86,0.63043475,0.6904762,0.58,0.99973977
+532,"dining table, board",tensor(0.7428),0.92,0.6942148,0.5915493,0.84,0.9994194
+533,"dishrag, dishcloth",tensor(0.7428),0.98,0.84905666,0.8035714,0.9,0.99977976
+534,"dishwasher, dish washer, dishwashing machine",tensor(0.7428),0.8,0.65168536,0.74358976,0.58,0.9997998
+535,"disk brake, disc brake",tensor(0.7428),0.98,0.9019608,0.88461536,0.92,0.9998799
+536,"dock, dockage, docking facility",tensor(0.7428),0.84,0.3888889,0.6363636,0.28,0.99983984
+537,"dogsled, dog sled, dog sleigh",tensor(0.7428),0.98,0.8952381,0.8545455,0.94,0.99983984
+538,dome,tensor(0.7428),0.96,0.7291667,0.76086956,0.7,0.99977976
+539,"doormat, welcome mat",tensor(0.7428),0.76,0.6444444,0.725,0.58,0.99977976
+540,"drilling platform, offshore rig",tensor(0.7428),1.0,0.8545455,0.78333336,0.94,0.99973977
+541,"drum, membranophone, tympan",tensor(0.7428),0.66,0.44444448,0.58064514,0.36,0.99973977
+542,drumstick,tensor(0.7428),0.88,0.57142854,0.63414633,0.52,0.9996997
+543,dumbbell,tensor(0.7428),0.9,0.53333336,0.5090909,0.56,0.99945945
+544,Dutch oven,tensor(0.7428),0.92,0.7326733,0.7254902,0.74,0.99971974
+545,"electric fan, blower",tensor(0.7428),0.9,0.80733943,0.7457627,0.88,0.9996997
+546,electric guitar,tensor(0.7428),0.94,0.6736842,0.7111111,0.64,0.99973977
+547,electric locomotive,tensor(0.7428),0.98,0.86868685,0.877551,0.86,0.9998799
+548,entertainment center,tensor(0.7428),0.98,0.7933884,0.6760563,0.96,0.99953955
+549,envelope,tensor(0.7428),0.82,0.5581395,0.6666667,0.48,0.99975973
+550,espresso maker,tensor(0.7428),0.94,0.7391304,0.8095238,0.68,0.99983984
+551,face powder,tensor(0.7428),0.9,0.7755102,0.7916667,0.76,0.9997998
+552,"feather boa, boa",tensor(0.7428),0.86,0.77894735,0.82222223,0.74,0.99983984
+553,"file, file cabinet, filing cabinet",tensor(0.7428),0.98,0.7924529,0.75,0.84,0.99971974
+554,fireboat,tensor(0.7428),0.98,0.93333334,0.8909091,0.98,0.9998799
+555,"fire engine, fire truck",tensor(0.7428),0.9,0.8351648,0.9268293,0.76,0.9999399
+556,"fire screen, fireguard",tensor(0.7428),0.86,0.6930693,0.6862745,0.7,0.9996797
+557,"flagpole, flagstaff",tensor(0.7428),0.94,0.76,0.76,0.76,0.99975973
+558,"flute, transverse flute",tensor(0.7428),0.72,0.42105263,0.44444445,0.4,0.9994995
+559,folding chair,tensor(0.7428),0.86,0.6593407,0.73170733,0.6,0.99977976
+560,football helmet,tensor(0.7428),0.96,0.87234044,0.9318182,0.82,0.9999399
+561,forklift,tensor(0.7428),0.98,0.87234044,0.9318182,0.82,0.9999399
+562,fountain,tensor(0.7428),0.92,0.7551021,0.7708333,0.74,0.99977976
+563,fountain pen,tensor(0.7428),0.96,0.795699,0.8604651,0.74,0.9998799
+564,four-poster,tensor(0.7428),0.98,0.84905666,0.8035714,0.9,0.99977976
+565,freight car,tensor(0.7428),1.0,0.96,0.96,0.96,0.99995995
+566,"French horn, horn",tensor(0.7428),0.88,0.8351648,0.9268293,0.76,0.9999399
+567,"frying pan, frypan, skillet",tensor(0.7428),0.8,0.5679012,0.7419355,0.46,0.99983984
+568,fur coat,tensor(0.7428),0.98,0.8518518,0.79310346,0.92,0.99975973
+569,"garbage truck, dustcart",tensor(0.7428),1.0,0.77966106,0.6764706,0.92,0.9995596
+570,"gasmask, respirator, gas helmet",tensor(0.7428),0.9,0.7522935,0.69491524,0.82,0.99963963
+571,"gas pump, gasoline pump, petrol pump, island dispenser",tensor(0.7428),0.96,0.80808085,0.81632656,0.8,0.9998198
+572,goblet,tensor(0.7428),0.9,0.61176467,0.74285716,0.52,0.9998198
+573,go-kart,tensor(0.7428),1.0,0.95049506,0.9411765,0.96,0.9999399
+574,golf ball,tensor(0.7428),0.92,0.8453609,0.87234044,0.82,0.9998799
+575,"golfcart, golf cart",tensor(0.7428),0.92,0.81553394,0.7924528,0.84,0.99977976
+576,gondola,tensor(0.7428),0.98,0.9514563,0.9245283,0.98,0.9999199
+577,"gong, tam-tam",tensor(0.7428),0.92,0.77064216,0.7118644,0.84,0.99965966
+578,gown,tensor(0.7428),1.0,0.64285713,0.7941176,0.54,0.99985987
+579,"grand piano, grand",tensor(0.7428),0.94,0.7311828,0.7906977,0.68,0.9998198
+580,"greenhouse, nursery, glasshouse",tensor(0.7428),0.94,0.78350514,0.80851066,0.76,0.9998198
+581,"grille, radiator grille",tensor(0.7428),0.78,0.71428573,0.88235295,0.6,0.9999199
+582,"grocery store, grocery, food market, market",tensor(0.7428),0.88,0.53333336,0.45714286,0.64,0.99923927
+583,guillotine,tensor(0.7428),0.98,0.8703704,0.8103448,0.94,0.99977976
+584,hair slide,tensor(0.7428),0.76,0.47272727,0.43333334,0.52,0.9993193
+585,hair spray,tensor(0.7428),0.74,0.37837836,0.5833333,0.28,0.9997998
+586,half track,tensor(0.7428),0.88,0.71999997,0.72,0.72,0.99971974
+587,hammer,tensor(0.7428),0.8,0.6666667,0.8235294,0.56,0.9998799
+588,hamper,tensor(0.7428),0.9,0.6336633,0.627451,0.64,0.9996196
+589,"hand blower, blow dryer, blow drier, hair dryer, hair drier",tensor(0.7428),0.8,0.6813187,0.75609756,0.62,0.9997998
+590,"hand-held computer, hand-held microcomputer",tensor(0.7428),0.92,0.6956521,0.7619048,0.64,0.9997998
+591,"handkerchief, hankie, hanky, hankey",tensor(0.7428),0.94,0.8076922,0.7777778,0.84,0.99975973
+592,"hard disc, hard disk, fixed disk",tensor(0.7428),0.92,0.8367347,0.8541667,0.82,0.99985987
+593,"harmonica, mouth organ, harp, mouth harp",tensor(0.7428),0.88,0.74,0.74,0.74,0.99973977
+594,harp,tensor(0.7428),0.94,0.8653845,0.8333333,0.9,0.9998198
+595,"harvester, reaper",tensor(0.7428),1.0,0.7378641,0.7169811,0.76,0.9996997
+596,hatchet,tensor(0.7428),0.8,0.6451613,0.6976744,0.6,0.99973977
+597,holster,tensor(0.7428),0.8,0.68817204,0.74418604,0.64,0.99977976
+598,"home theater, home theatre",tensor(0.7428),0.94,0.62790704,0.75,0.54,0.9998198
+599,honeycomb,tensor(0.7428),0.88,0.67346936,0.6875,0.66,0.9996997
+600,"hook, claw",tensor(0.7428),0.72,0.29213482,0.33333334,0.26,0.9994795
+601,"hoopskirt, crinoline",tensor(0.7428),0.86,0.5846154,0.475,0.76,0.99915916
+602,"horizontal bar, high bar",tensor(0.7428),0.96,0.6851852,0.63793105,0.74,0.9995796
+603,"horse cart, horse-cart",tensor(0.7428),0.98,0.79591835,0.8125,0.78,0.9998198
+604,hourglass,tensor(0.7428),0.98,0.98,0.98,0.98,0.99998
+605,iPod,tensor(0.7428),0.88,0.8041237,0.82978725,0.78,0.99983984
+606,"iron, smoothing iron",tensor(0.7428),0.94,0.80808085,0.81632656,0.8,0.9998198
+607,jack-o'-lantern,tensor(0.7428),0.98,0.9320388,0.9056604,0.96,0.9998999
+608,"jean, blue jean, denim",tensor(0.7428),0.86,0.7216495,0.7446808,0.7,0.99975973
+609,"jeep, landrover",tensor(0.7428),0.94,0.77894735,0.82222223,0.74,0.99983984
+610,"jersey, T-shirt, tee shirt",tensor(0.7428),0.92,0.83168316,0.8235294,0.84,0.9998198
+611,jigsaw puzzle,tensor(0.7428),0.94,0.8823529,0.86538464,0.9,0.99985987
+612,"jinrikisha, ricksha, rickshaw",tensor(0.7428),1.0,0.79646015,0.71428573,0.9,0.99963963
+613,joystick,tensor(0.7428),0.96,0.81904763,0.7818182,0.86,0.99975973
+614,kimono,tensor(0.7428),0.94,0.7924529,0.75,0.84,0.99971974
+615,knee pad,tensor(0.7428),0.9,0.86315787,0.9111111,0.82,0.9999199
+616,knot,tensor(0.7428),0.82,0.76,0.76,0.76,0.99975973
+617,"lab coat, laboratory coat",tensor(0.7428),0.96,0.62992126,0.5194805,0.8,0.99925923
+618,ladle,tensor(0.7428),0.68,0.37974682,0.51724136,0.3,0.99971974
+619,"lampshade, lamp shade",tensor(0.7428),0.94,0.5194805,0.7407407,0.4,0.99985987
+620,"laptop, laptop computer",tensor(0.7428),0.86,0.31250003,0.32608697,0.3,0.9993794
+621,"lawn mower, mower",tensor(0.7428),0.94,0.82242984,0.7719298,0.88,0.99973977
+622,"lens cap, lens cover",tensor(0.7428),0.64,0.6052632,0.88461536,0.46,0.9999399
+623,"letter opener, paper knife, paperknife",tensor(0.7428),0.62,0.5,0.8181818,0.36,0.9999199
+624,library,tensor(0.7428),0.98,0.5492958,0.42391303,0.78,0.9989389
+625,lifeboat,tensor(0.7428),0.98,0.9306931,0.92156863,0.94,0.9999199
+626,"lighter, light, igniter, ignitor",tensor(0.7428),0.86,0.6666666,0.59375,0.76,0.9994795
+627,"limousine, limo",tensor(0.7428),0.96,0.79999995,0.84444445,0.76,0.99985987
+628,"liner, ocean liner",tensor(0.7428),0.98,0.8761905,0.8363636,0.92,0.9998198
+629,"lipstick, lip rouge",tensor(0.7428),0.9,0.8041237,0.82978725,0.78,0.99983984
+630,Loafer,tensor(0.7428),0.98,0.86,0.86,0.86,0.99985987
+631,lotion,tensor(0.7428),0.9,0.619469,0.5555556,0.7,0.9994394
+632,"loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",tensor(0.7428),0.72,0.6292135,0.71794873,0.56,0.99977976
+633,"loupe, jeweler's loupe",tensor(0.7428),0.58,0.475,0.6333333,0.38,0.99977976
+634,"lumbermill, sawmill",tensor(0.7428),0.98,0.6666666,0.55263156,0.84,0.9993193
+635,magnetic compass,tensor(0.7428),0.84,0.7070707,0.71428573,0.7,0.99971974
+636,"mailbag, postbag",tensor(0.7428),1.0,0.6981132,0.66071427,0.74,0.9996196
+637,"mailbox, letter box",tensor(0.7428),0.92,0.84210527,0.8888889,0.8,0.9998999
+638,maillot,tensor(0.7428),0.94,0.25,0.28947368,0.22,0.99945945
+639,"maillot, tank suit",tensor(0.7428),0.9,0.3232323,0.3265306,0.32,0.99933934
+640,manhole cover,tensor(0.7428),0.94,0.9375,0.9782609,0.9,0.99998
+641,maraca,tensor(0.7428),0.9,0.7378641,0.7169811,0.76,0.9996997
+642,"marimba, xylophone",tensor(0.7428),1.0,0.8703704,0.8103448,0.94,0.99977976
+643,mask,tensor(0.7428),0.72,0.61176467,0.74285716,0.52,0.9998198
+644,matchstick,tensor(0.7428),0.96,0.67307687,0.6481481,0.7,0.9996196
+645,maypole,tensor(0.7428),1.0,0.8727273,0.8,0.96,0.99975973
+646,"maze, labyrinth",tensor(0.7428),0.96,0.84905666,0.8035714,0.9,0.99977976
+647,measuring cup,tensor(0.7428),0.84,0.7128714,0.7058824,0.72,0.9996997
+648,"medicine chest, medicine cabinet",tensor(0.7428),0.92,0.61403507,0.546875,0.7,0.9994194
+649,"megalith, megalithic structure",tensor(0.7428),0.92,0.8842105,0.93333334,0.84,0.9999399
+650,"microphone, mike",tensor(0.7428),0.74,0.5681818,0.65789473,0.5,0.99973977
+651,"microwave, microwave oven",tensor(0.7428),0.78,0.61176467,0.74285716,0.52,0.9998198
+652,military uniform,tensor(0.7428),0.8,0.6666667,0.6956522,0.64,0.99971974
+653,milk can,tensor(0.7428),0.86,0.74509805,0.7307692,0.76,0.99971974
+654,minibus,tensor(0.7428),0.98,0.7,0.6,0.84,0.9994394
+655,"miniskirt, mini",tensor(0.7428),0.8,0.57692313,0.5555556,0.6,0.9995195
+656,minivan,tensor(0.7428),0.86,0.6136364,0.7105263,0.54,0.99977976
+657,missile,tensor(0.7428),0.88,0.50909096,0.46666667,0.56,0.99935937
+658,mitten,tensor(0.7428),0.9,0.7592593,0.70689654,0.82,0.99965966
+659,mixing bowl,tensor(0.7428),0.96,0.7850467,0.7368421,0.84,0.9996997
+660,"mobile home, manufactured home",tensor(0.7428),0.82,0.6464646,0.6530612,0.64,0.99965966
+661,Model T,tensor(0.7428),0.98,0.8761905,0.8363636,0.92,0.9998198
+662,modem,tensor(0.7428),0.92,0.66,0.66,0.66,0.99965966
+663,monastery,tensor(0.7428),0.9,0.49541286,0.45762712,0.54,0.99935937
+664,monitor,tensor(0.7428),0.9,0.29629627,0.38709676,0.24,0.9996196
+665,moped,tensor(0.7428),0.96,0.7191011,0.82051283,0.64,0.99985987
+666,mortar,tensor(0.7428),0.94,0.81553394,0.7924528,0.84,0.99977976
+667,mortarboard,tensor(0.7428),0.92,0.6511628,0.7777778,0.56,0.99983984
+668,mosque,tensor(0.7428),1.0,0.8598131,0.80701756,0.92,0.99977976
+669,mosquito net,tensor(0.7428),1.0,0.8712871,0.8627451,0.88,0.99985987
+670,"motor scooter, scooter",tensor(0.7428),1.0,0.84,0.84,0.84,0.99983984
+671,"mountain bike, all-terrain bike, off-roader",tensor(0.7428),0.92,0.7049181,0.5972222,0.86,0.9994194
+672,mountain tent,tensor(0.7428),0.98,0.92307687,0.8888889,0.96,0.9998799
+673,"mouse, computer mouse",tensor(0.7428),0.82,0.48717952,0.6785714,0.38,0.9998198
+674,mousetrap,tensor(0.7428),0.92,0.677686,0.57746476,0.82,0.9993994
+675,moving van,tensor(0.7428),0.88,0.6966292,0.7948718,0.62,0.99983984
+676,muzzle,tensor(0.7428),0.76,0.65,0.8666667,0.52,0.9999199
+677,nail,tensor(0.7428),0.76,0.6595745,0.70454544,0.62,0.99973977
+678,neck brace,tensor(0.7428),0.84,0.59405947,0.5882353,0.6,0.9995796
+679,necklace,tensor(0.7428),1.0,0.7213115,0.6111111,0.88,0.9994394
+680,nipple,tensor(0.7428),0.94,0.7368421,0.65625,0.84,0.9995596
+681,"notebook, notebook computer",tensor(0.7428),0.82,0.21276596,0.22727273,0.2,0.9993193
+682,obelisk,tensor(0.7428),0.94,0.8039216,0.78846157,0.82,0.99977976
+683,"oboe, hautboy, hautbois",tensor(0.7428),0.9,0.6938775,0.7083333,0.68,0.99971974
+684,"ocarina, sweet potato",tensor(0.7428),0.9,0.8118812,0.8039216,0.82,0.9997998
+685,"odometer, hodometer, mileometer, milometer",tensor(0.7428),1.0,0.98,0.98,0.98,0.99998
+686,oil filter,tensor(0.7428),0.92,0.7307693,0.7037037,0.76,0.9996797
+687,"organ, pipe organ",tensor(0.7428),0.94,0.8842105,0.93333334,0.84,0.9999399
+688,"oscilloscope, scope, cathode-ray oscilloscope, CRO",tensor(0.7428),0.98,0.8571428,0.7741935,0.96,0.99971974
+689,overskirt,tensor(0.7428),0.84,0.39175257,0.40425533,0.38,0.9994394
+690,oxcart,tensor(0.7428),0.98,0.69767445,0.56962025,0.9,0.9993193
+691,oxygen mask,tensor(0.7428),0.9,0.58181816,0.53333336,0.64,0.9994394
+692,packet,tensor(0.7428),0.86,0.4705882,0.37209302,0.64,0.9989189
+693,"paddle, boat paddle",tensor(0.7428),0.92,0.6292135,0.71794873,0.56,0.99977976
+694,"paddlewheel, paddle wheel",tensor(0.7428),0.96,0.90909094,0.9183673,0.9,0.9999199
+695,padlock,tensor(0.7428),0.92,0.75,0.7826087,0.72,0.9997998
+696,paintbrush,tensor(0.7428),0.88,0.79999995,0.84444445,0.76,0.99985987
+697,"pajama, pyjama, pj's, jammies",tensor(0.7428),0.96,0.65546215,0.5652174,0.78,0.9993994
+698,palace,tensor(0.7428),1.0,0.6046511,0.49367088,0.78,0.9991992
+699,"panpipe, pandean pipe, syrinx",tensor(0.7428),0.86,0.82474226,0.85106385,0.8,0.99985987
+700,paper towel,tensor(0.7428),0.86,0.6813187,0.75609756,0.62,0.9997998
+701,"parachute, chute",tensor(0.7428),0.94,0.8598131,0.80701756,0.92,0.99977976
+702,"parallel bars, bars",tensor(0.7428),1.0,0.69724774,0.6440678,0.76,0.9995796
+703,park bench,tensor(0.7428),0.9,0.6981132,0.66071427,0.74,0.9996196
+704,parking meter,tensor(0.7428),0.94,0.86,0.86,0.86,0.99985987
+705,"passenger car, coach, carriage",tensor(0.7428),0.86,0.6097561,0.78125,0.5,0.99985987
+706,"patio, terrace",tensor(0.7428),0.78,0.5121951,0.65625,0.42,0.99977976
+707,"pay-phone, pay-station",tensor(0.7428),0.92,0.81632656,0.8333333,0.8,0.99983984
+708,"pedestal, plinth, footstall",tensor(0.7428),0.94,0.58695656,0.64285713,0.54,0.9996997
+709,"pencil box, pencil case",tensor(0.7428),0.92,0.6,0.675,0.54,0.99973977
+710,pencil sharpener,tensor(0.7428),0.78,0.5106383,0.54545456,0.48,0.9995996
+711,"perfume, essence",tensor(0.7428),0.96,0.6930693,0.6862745,0.7,0.9996797
+712,Petri dish,tensor(0.7428),0.92,0.75247526,0.74509805,0.76,0.99973977
+713,photocopier,tensor(0.7428),1.0,0.7328245,0.5925926,0.96,0.99933934
+714,"pick, plectrum, plectron",tensor(0.7428),0.9,0.8041237,0.82978725,0.78,0.99983984
+715,pickelhaube,tensor(0.7428),0.92,0.8118812,0.8039216,0.82,0.9997998
+716,"picket fence, paling",tensor(0.7428),0.96,0.82,0.82,0.82,0.9998198
+717,"pickup, pickup truck",tensor(0.7428),0.9,0.7333333,0.825,0.66,0.99985987
+718,pier,tensor(0.7428),0.86,0.5046729,0.47368422,0.54,0.9993994
+719,"piggy bank, penny bank",tensor(0.7428),0.94,0.84905666,0.8035714,0.9,0.99977976
+720,pill bottle,tensor(0.7428),0.92,0.754717,0.71428573,0.8,0.9996797
+721,pillow,tensor(0.7428),0.88,0.8131868,0.902439,0.74,0.9999199
+722,ping-pong ball,tensor(0.7428),0.9,0.8118812,0.8039216,0.82,0.9997998
+723,pinwheel,tensor(0.7428),0.9,0.8118812,0.8039216,0.82,0.9997998
+724,"pirate, pirate ship",tensor(0.7428),0.92,0.795699,0.8604651,0.74,0.9998799
+725,"pitcher, ewer",tensor(0.7428),0.8,0.47058824,0.5714286,0.4,0.9996997
+726,"plane, carpenter's plane, woodworking plane",tensor(0.7428),0.98,0.8910891,0.88235295,0.9,0.9998799
+727,planetarium,tensor(0.7428),1.0,0.91588783,0.8596491,0.98,0.99983984
+728,plastic bag,tensor(0.7428),0.64,0.43956047,0.4878049,0.4,0.9995796
+729,plate rack,tensor(0.7428),0.88,0.7422681,0.7659575,0.72,0.99977976
+730,"plow, plough",tensor(0.7428),0.9,0.7628866,0.78723407,0.74,0.9997998
+731,"plunger, plumber's helper",tensor(0.7428),0.66,0.5048543,0.49056605,0.52,0.99945945
+732,"Polaroid camera, Polaroid Land camera",tensor(0.7428),0.88,0.78846157,0.7592593,0.82,0.99973977
+733,pole,tensor(0.7428),0.86,0.42857143,0.4375,0.42,0.99945945
+734,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",tensor(0.7428),0.98,0.74766356,0.7017544,0.8,0.99965966
+735,poncho,tensor(0.7428),0.9,0.67256635,0.6031746,0.76,0.9994995
+736,"pool table, billiard table, snooker table",tensor(0.7428),0.9,0.84,0.84,0.84,0.99983984
+737,"pop bottle, soda bottle",tensor(0.7428),0.92,0.6451613,0.6976744,0.6,0.99973977
+738,"pot, flowerpot",tensor(0.7428),0.96,0.703125,0.5769231,0.9,0.99933934
+739,potter's wheel,tensor(0.7428),0.98,0.71875,0.5897436,0.92,0.99935937
+740,power drill,tensor(0.7428),0.68,0.6233766,0.8888889,0.48,0.9999399
+741,"prayer rug, prayer mat",tensor(0.7428),0.88,0.76404494,0.8717949,0.68,0.9998999
+742,printer,tensor(0.7428),0.84,0.4878049,0.625,0.4,0.99975973
+743,"prison, prison house",tensor(0.7428),0.98,0.631579,0.5625,0.72,0.9994394
+744,"projectile, missile",tensor(0.7428),0.86,0.19718309,0.33333334,0.14,0.99971974
+745,projector,tensor(0.7428),0.84,0.67326736,0.6666667,0.68,0.99965966
+746,"puck, hockey puck",tensor(0.7428),0.96,0.8761905,0.8363636,0.92,0.9998198
+747,"punching bag, punch bag, punching ball, punchball",tensor(0.7428),0.88,0.6736842,0.7111111,0.64,0.99973977
+748,purse,tensor(0.7428),0.88,0.44444442,0.3880597,0.52,0.9991792
+749,"quill, quill pen",tensor(0.7428),0.94,0.8076922,0.7777778,0.84,0.99975973
+750,"quilt, comforter, comfort, puff",tensor(0.7428),0.94,0.5531915,0.59090906,0.52,0.99963963
+751,"racer, race car, racing car",tensor(0.7428),0.96,0.65546215,0.5652174,0.78,0.9993994
+752,"racket, racquet",tensor(0.7428),0.94,0.78095245,0.74545455,0.82,0.99971974
+753,radiator,tensor(0.7428),0.92,0.8,0.9,0.72,0.9999199
+754,"radio, wireless",tensor(0.7428),0.88,0.44155845,0.6296296,0.34,0.9997998
+755,"radio telescope, radio reflector",tensor(0.7428),0.96,0.8932039,0.8679245,0.92,0.99985987
+756,rain barrel,tensor(0.7428),0.96,0.7962963,0.7413793,0.86,0.9996997
+757,"recreational vehicle, RV, R.V.",tensor(0.7428),0.94,0.8484848,0.85714287,0.84,0.99985987
+758,reel,tensor(0.7428),0.78,0.77272725,0.8947368,0.68,0.9999199
+759,reflex camera,tensor(0.7428),0.9,0.7058824,0.6923077,0.72,0.9996797
+760,"refrigerator, icebox",tensor(0.7428),0.94,0.8349515,0.8113208,0.86,0.9997998
+761,"remote control, remote",tensor(0.7428),0.92,0.8653845,0.8333333,0.9,0.9998198
+762,"restaurant, eating house, eating place, eatery",tensor(0.7428),0.72,0.44067797,0.38235295,0.52,0.99915916
+763,"revolver, six-gun, six-shooter",tensor(0.7428),1.0,0.8737864,0.8490566,0.9,0.99983984
+764,rifle,tensor(0.7428),0.76,0.4578313,0.57575756,0.38,0.99971974
+765,"rocking chair, rocker",tensor(0.7428),0.86,0.72549015,0.71153843,0.74,0.9996997
+766,rotisserie,tensor(0.7428),0.96,0.82568806,0.7627119,0.9,0.99971974
+767,"rubber eraser, rubber, pencil eraser",tensor(0.7428),0.8,0.45614034,0.40625,0.52,0.99923927
+768,rugby ball,tensor(0.7428),0.94,0.8125,0.84782606,0.78,0.99985987
+769,"rule, ruler",tensor(0.7428),0.82,0.71999997,0.72,0.72,0.99971974
+770,running shoe,tensor(0.7428),0.92,0.8602151,0.9302326,0.8,0.9999399
+771,safe,tensor(0.7428),0.94,0.86,0.86,0.86,0.99985987
+772,safety pin,tensor(0.7428),0.66,0.6585367,0.84375,0.54,0.9998999
+773,"saltshaker, salt shaker",tensor(0.7428),0.94,0.7234042,0.77272725,0.68,0.9997998
+774,sandal,tensor(0.7428),0.84,0.7216495,0.7446808,0.7,0.99975973
+775,sarong,tensor(0.7428),0.8,0.6185567,0.63829786,0.6,0.99965966
+776,"sax, saxophone",tensor(0.7428),0.84,0.7209302,0.8611111,0.62,0.9998999
+777,scabbard,tensor(0.7428),0.96,0.74509805,0.7307692,0.76,0.99971974
+778,"scale, weighing machine",tensor(0.7428),0.84,0.73809516,0.9117647,0.62,0.9999399
+779,school bus,tensor(0.7428),1.0,0.8712871,0.8627451,0.88,0.99985987
+780,schooner,tensor(0.7428),0.96,0.8,0.76363635,0.84,0.99973977
+781,scoreboard,tensor(0.7428),1.0,0.8761905,0.8363636,0.92,0.9998198
+782,"screen, CRT screen",tensor(0.7428),0.76,0.25974026,0.37037036,0.2,0.99965966
+783,screw,tensor(0.7428),0.96,0.8571428,0.8181818,0.9,0.9997998
+784,screwdriver,tensor(0.7428),0.58,0.44705883,0.54285717,0.38,0.9996797
+785,"seat belt, seatbelt",tensor(0.7428),0.94,0.83018863,0.78571427,0.88,0.99975973
+786,sewing machine,tensor(0.7428),0.88,0.8297872,0.8863636,0.78,0.9998999
+787,"shield, buckler",tensor(0.7428),0.8,0.5979381,0.61702126,0.58,0.99963963
+788,"shoe shop, shoe-shop, shoe store",tensor(0.7428),0.92,0.776699,0.754717,0.8,0.99973977
+789,shoji,tensor(0.7428),1.0,0.6911764,0.54651165,0.94,0.99921924
+790,shopping basket,tensor(0.7428),0.92,0.7,0.7,0.7,0.9996997
+791,shopping cart,tensor(0.7428),0.96,0.8210527,0.8666667,0.78,0.9998799
+792,shovel,tensor(0.7428),0.82,0.6526316,0.6888889,0.62,0.99971974
+793,shower cap,tensor(0.7428),0.88,0.776699,0.754717,0.8,0.99973977
+794,shower curtain,tensor(0.7428),0.92,0.7184466,0.6981132,0.74,0.9996797
+795,ski,tensor(0.7428),0.96,0.75247526,0.74509805,0.76,0.99973977
+796,ski mask,tensor(0.7428),0.92,0.77227724,0.7647059,0.78,0.99975973
+797,sleeping bag,tensor(0.7428),0.84,0.7157895,0.75555557,0.68,0.99977976
+798,"slide rule, slipstick",tensor(0.7428),0.86,0.84444445,0.95,0.76,0.99995995
+799,sliding door,tensor(0.7428),0.74,0.42222223,0.475,0.38,0.9995796
+800,"slot, one-armed bandit",tensor(0.7428),0.98,0.9494949,0.9591837,0.94,0.99995995
+801,snorkel,tensor(0.7428),0.96,0.8431373,0.8269231,0.86,0.9998198
+802,snowmobile,tensor(0.7428),1.0,0.8910891,0.88235295,0.9,0.9998799
+803,"snowplow, snowplough",tensor(0.7428),1.0,0.79279274,0.72131145,0.88,0.99965966
+804,soap dispenser,tensor(0.7428),0.9,0.6862745,0.6730769,0.7,0.99965966
+805,soccer ball,tensor(0.7428),0.98,0.8653845,0.8333333,0.9,0.9998198
+806,sock,tensor(0.7428),0.8,0.7209302,0.8611111,0.62,0.9998999
+807,"solar dish, solar collector, solar furnace",tensor(0.7428),0.98,0.62500006,0.51282054,0.8,0.99923927
+808,sombrero,tensor(0.7428),0.86,0.6593407,0.73170733,0.6,0.99977976
+809,soup bowl,tensor(0.7428),0.9,0.4864865,0.75,0.36,0.9998799
+810,space bar,tensor(0.7428),0.92,0.48387095,0.4054054,0.6,0.9991191
+811,space heater,tensor(0.7428),0.76,0.7234042,0.77272725,0.68,0.9997998
+812,space shuttle,tensor(0.7428),0.96,0.877551,0.8958333,0.86,0.9998999
+813,spatula,tensor(0.7428),0.72,0.5,0.61764705,0.42,0.99973977
+814,speedboat,tensor(0.7428),0.98,0.9019608,0.88461536,0.92,0.9998799
+815,"spider web, spider's web",tensor(0.7428),0.9,0.74418604,0.8888889,0.64,0.9999199
+816,spindle,tensor(0.7428),1.0,0.9423077,0.9074074,0.98,0.9998999
+817,"sports car, sport car",tensor(0.7428),0.94,0.59405947,0.5882353,0.6,0.9995796
+818,"spotlight, spot",tensor(0.7428),0.64,0.41379312,0.4864865,0.36,0.9996196
+819,stage,tensor(0.7428),0.86,0.5426356,0.443038,0.7,0.9991191
+820,steam locomotive,tensor(0.7428),0.98,0.9183674,0.9375,0.9,0.9999399
+821,steel arch bridge,tensor(0.7428),0.98,0.8679245,0.8214286,0.92,0.9997998
+822,steel drum,tensor(0.7428),0.9,0.8842105,0.93333334,0.84,0.9999399
+823,stethoscope,tensor(0.7428),0.8,0.64285713,0.7941176,0.54,0.99985987
+824,stole,tensor(0.7428),0.92,0.5376344,0.5813953,0.5,0.99963963
+825,stone wall,tensor(0.7428),0.88,0.82608694,0.9047619,0.76,0.9999199
+826,"stopwatch, stop watch",tensor(0.7428),0.84,0.6136364,0.7105263,0.54,0.99977976
+827,stove,tensor(0.7428),0.86,0.6262626,0.63265306,0.62,0.99963963
+828,strainer,tensor(0.7428),0.78,0.63043475,0.6904762,0.58,0.99973977
+829,"streetcar, tram, tramcar, trolley, trolley car",tensor(0.7428),0.96,0.86,0.86,0.86,0.99985987
+830,stretcher,tensor(0.7428),0.86,0.59405947,0.5882353,0.6,0.9995796
+831,"studio couch, day bed",tensor(0.7428),0.98,0.68799996,0.5733333,0.86,0.99935937
+832,"stupa, tope",tensor(0.7428),0.9,0.9052632,0.95555556,0.86,0.99995995
+833,"submarine, pigboat, sub, U-boat",tensor(0.7428),0.96,0.82608694,0.9047619,0.76,0.9999199
+834,"suit, suit of clothes",tensor(0.7428),0.7,0.51785713,0.46774194,0.58,0.99933934
+835,sundial,tensor(0.7428),0.82,0.67391306,0.7380952,0.62,0.99977976
+836,sunglass,tensor(0.7428),0.6,0.31428573,0.55,0.22,0.9998198
+837,"sunglasses, dark glasses, shades",tensor(0.7428),0.56,0.34666666,0.52,0.26,0.99975973
+838,"sunscreen, sunblock, sun blocker",tensor(0.7428),0.8,0.4102564,0.5714286,0.32,0.99975973
+839,suspension bridge,tensor(0.7428),0.88,0.70329666,0.7804878,0.64,0.9998198
+840,"swab, swob, mop",tensor(0.7428),0.96,0.7758621,0.6818182,0.9,0.9995796
+841,sweatshirt,tensor(0.7428),0.72,0.54545456,0.7777778,0.42,0.9998799
+842,"swimming trunks, bathing trunks",tensor(0.7428),0.8,0.48484847,0.48979592,0.48,0.9994995
+843,swing,tensor(0.7428),0.94,0.6241135,0.48351648,0.88,0.9990591
+844,"switch, electric switch, electrical switch",tensor(0.7428),0.9,0.6373626,0.70731705,0.58,0.99975973
+845,syringe,tensor(0.7428),0.84,0.67391306,0.7380952,0.62,0.99977976
+846,table lamp,tensor(0.7428),0.88,0.6666666,0.58208954,0.78,0.9994394
+847,"tank, army tank, armored combat vehicle, armoured combat vehicle",tensor(0.7428),0.98,0.7169811,0.6785714,0.76,0.99963963
+848,tape player,tensor(0.7428),0.9,0.35526317,0.2647059,0.54,0.9984985
+849,teapot,tensor(0.7428),1.0,0.80808085,0.81632656,0.8,0.9998198
+850,"teddy, teddy bear",tensor(0.7428),0.86,0.7628866,0.78723407,0.74,0.9997998
+851,"television, television system",tensor(0.7428),0.86,0.53333336,0.45714286,0.64,0.99923927
+852,tennis ball,tensor(0.7428),0.96,0.8431373,0.8269231,0.86,0.9998198
+853,"thatch, thatched roof",tensor(0.7428),0.96,0.886598,0.9148936,0.86,0.9999199
+854,"theater curtain, theatre curtain",tensor(0.7428),0.96,0.83018863,0.78571427,0.88,0.99975973
+855,thimble,tensor(0.7428),0.76,0.7291667,0.76086956,0.7,0.99977976
+856,"thresher, thrasher, threshing machine",tensor(0.7428),0.96,0.6034482,0.530303,0.7,0.9993794
+857,throne,tensor(0.7428),0.8,0.76923084,0.85365856,0.7,0.9998799
+858,tile roof,tensor(0.7428),0.78,0.70329666,0.7804878,0.64,0.9998198
+859,toaster,tensor(0.7428),0.84,0.76923084,0.85365856,0.7,0.9998799
+860,"tobacco shop, tobacconist shop, tobacconist",tensor(0.7428),0.8,0.43548384,0.36486486,0.54,0.9990591
+861,toilet seat,tensor(0.7428),0.86,0.77227724,0.7647059,0.78,0.99975973
+862,torch,tensor(0.7428),0.94,0.71929824,0.640625,0.82,0.99953955
+863,totem pole,tensor(0.7428),1.0,0.94,0.94,0.94,0.9999399
+864,"tow truck, tow car, wrecker",tensor(0.7428),0.92,0.6464646,0.6530612,0.64,0.99965966
+865,toyshop,tensor(0.7428),0.88,0.54545456,0.5,0.6,0.9993994
+866,tractor,tensor(0.7428),0.98,0.7358491,0.6964286,0.78,0.99965966
+867,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",tensor(0.7428),0.98,0.7676767,0.7755102,0.76,0.99977976
+868,tray,tensor(0.7428),0.78,0.5894737,0.62222224,0.56,0.99965966
+869,trench coat,tensor(0.7428),0.78,0.6585367,0.84375,0.54,0.9998999
+870,"tricycle, trike, velocipede",tensor(0.7428),1.0,0.71929824,0.640625,0.82,0.99953955
+871,trimaran,tensor(0.7428),0.96,0.754717,0.71428573,0.8,0.9996797
+872,tripod,tensor(0.7428),0.86,0.67391306,0.7380952,0.62,0.99977976
+873,triumphal arch,tensor(0.7428),0.98,0.9108911,0.9019608,0.92,0.9998999
+874,"trolleybus, trolley coach, trackless trolley",tensor(0.7428),1.0,0.8596491,0.765625,0.98,0.9996997
+875,trombone,tensor(0.7428),0.84,0.67346936,0.6875,0.66,0.9996997
+876,"tub, vat",tensor(0.7428),0.88,0.3695652,0.4047619,0.34,0.9994995
+877,turnstile,tensor(0.7428),0.92,0.7755102,0.7916667,0.76,0.9997998
+878,typewriter keyboard,tensor(0.7428),0.98,0.48,0.72,0.36,0.99985987
+879,umbrella,tensor(0.7428),0.7,0.6511628,0.7777778,0.56,0.99983984
+880,"unicycle, monocycle",tensor(0.7428),0.96,0.7358491,0.6964286,0.78,0.99965966
+881,"upright, upright piano",tensor(0.7428),0.92,0.7567568,0.6885246,0.84,0.9996196
+882,"vacuum, vacuum cleaner",tensor(0.7428),0.92,0.6666667,0.65384614,0.68,0.99963963
+883,vase,tensor(0.7428),0.8,0.5102041,0.5208333,0.5,0.99953955
+884,vault,tensor(0.7428),0.96,0.640625,0.525641,0.82,0.99925923
+885,velvet,tensor(0.7428),0.58,0.23880596,0.47058824,0.16,0.9998198
+886,vending machine,tensor(0.7428),0.98,0.88073385,0.8135593,0.96,0.99977976
+887,vestment,tensor(0.7428),0.92,0.6804124,0.70212764,0.66,0.99971974
+888,viaduct,tensor(0.7428),0.9,0.82608694,0.9047619,0.76,0.9999199
+889,"violin, fiddle",tensor(0.7428),0.82,0.70454544,0.81578946,0.62,0.99985987
+890,volleyball,tensor(0.7428),1.0,0.9142857,0.8727273,0.96,0.99985987
+891,waffle iron,tensor(0.7428),0.86,0.8453609,0.87234044,0.82,0.9998799
+892,wall clock,tensor(0.7428),0.9,0.59405947,0.5882353,0.6,0.9995796
+893,"wallet, billfold, notecase, pocketbook",tensor(0.7428),0.96,0.53846157,0.5185185,0.56,0.9994795
+894,"wardrobe, closet, press",tensor(0.7428),0.88,0.5762712,0.5,0.68,0.9993193
+895,"warplane, military plane",tensor(0.7428),0.96,0.69642854,0.62903225,0.78,0.99953955
+896,"washbasin, handbasin, washbowl, lavabo, wash-hand basin",tensor(0.7428),1.0,0.7407407,0.6896552,0.8,0.99963963
+897,"washer, automatic washer, washing machine",tensor(0.7428),0.9,0.8571428,0.9512195,0.78,0.99995995
+898,water bottle,tensor(0.7428),0.68,0.5531915,0.59090906,0.52,0.99963963
+899,water jug,tensor(0.7428),0.76,0.3703704,0.48387095,0.3,0.9996797
+900,water tower,tensor(0.7428),0.94,0.9591837,0.9791667,0.94,0.99998
+901,whiskey jug,tensor(0.7428),0.82,0.74999994,0.8684211,0.66,0.9998999
+902,whistle,tensor(0.7428),0.96,0.7592593,0.70689654,0.82,0.99965966
+903,wig,tensor(0.7428),0.86,0.78787875,0.79591835,0.78,0.9997998
+904,window screen,tensor(0.7428),0.8,0.6796117,0.6603774,0.7,0.99963963
+905,window shade,tensor(0.7428),0.84,0.59183675,0.6041667,0.58,0.9996196
+906,Windsor tie,tensor(0.7428),0.76,0.520548,0.82608694,0.38,0.9999199
+907,wine bottle,tensor(0.7428),0.74,0.4473684,0.65384614,0.34,0.9998198
+908,wing,tensor(0.7428),0.96,0.63291144,0.86206895,0.5,0.9999199
+909,wok,tensor(0.7428),0.84,0.51282054,0.71428573,0.4,0.99983984
+910,wooden spoon,tensor(0.7428),0.86,0.7216495,0.7446808,0.7,0.99975973
+911,"wool, woolen, woollen",tensor(0.7428),0.92,0.43478262,0.47619048,0.4,0.9995596
+912,"worm fence, snake fence, snake-rail fence, Virginia fence",tensor(0.7428),0.92,0.75,0.67741936,0.84,0.9995996
+913,wreck,tensor(0.7428),0.98,0.78787875,0.79591835,0.78,0.9997998
+914,yawl,tensor(0.7428),0.96,0.877551,0.8958333,0.86,0.9998999
+915,yurt,tensor(0.7428),1.0,0.9126213,0.8867925,0.94,0.9998799
+916,"web site, website, internet site, site",tensor(0.7428),0.98,0.8135593,0.7058824,0.96,0.9995996
+917,comic book,tensor(0.7428),0.86,0.6,0.675,0.54,0.99973977
+918,"crossword puzzle, crossword",tensor(0.7428),0.92,0.8659794,0.89361703,0.84,0.9998999
+919,street sign,tensor(0.7428),0.92,0.71186435,0.61764705,0.84,0.9994795
+920,"traffic light, traffic signal, stoplight",tensor(0.7428),0.92,0.81553394,0.7924528,0.84,0.99977976
+921,"book jacket, dust cover, dust jacket, dust wrapper",tensor(0.7428),0.96,0.58928573,0.5322581,0.66,0.9994194
+922,menu,tensor(0.7428),0.9,0.82608694,0.9047619,0.76,0.9999199
+923,plate,tensor(0.7428),0.92,0.44927534,0.35227272,0.62,0.99885887
+924,guacamole,tensor(0.7428),0.94,0.7346939,0.75,0.72,0.99975973
+925,consomme,tensor(0.7428),0.92,0.6271186,0.5441176,0.74,0.9993794
+926,"hot pot, hotpot",tensor(0.7428),1.0,0.6478873,0.5,0.92,0.9990791
+927,trifle,tensor(0.7428),1.0,0.7933884,0.6760563,0.96,0.99953955
+928,"ice cream, icecream",tensor(0.7428),0.96,0.5473684,0.5777778,0.52,0.9996196
+929,"ice lolly, lolly, lollipop, popsicle",tensor(0.7428),0.84,0.6213592,0.6037736,0.64,0.9995796
+930,French loaf,tensor(0.7428),0.86,0.67307687,0.6481481,0.7,0.9996196
+931,"bagel, beigel",tensor(0.7428),0.92,0.69473684,0.73333335,0.66,0.99975973
+932,pretzel,tensor(0.7428),0.92,0.7173913,0.78571427,0.66,0.9998198
+933,cheeseburger,tensor(0.7428),1.0,0.86,0.86,0.86,0.99985987
+934,"hotdog, hot dog, red hot",tensor(0.7428),0.94,0.776699,0.754717,0.8,0.99973977
+935,mashed potato,tensor(0.7428),0.88,0.71428573,0.7291667,0.7,0.99973977
+936,head cabbage,tensor(0.7428),0.98,0.86868685,0.877551,0.86,0.9998799
+937,broccoli,tensor(0.7428),1.0,0.8453609,0.87234044,0.82,0.9998799
+938,cauliflower,tensor(0.7428),0.96,0.84615386,0.8148148,0.88,0.9997998
+939,"zucchini, courgette",tensor(0.7428),0.96,0.76595753,0.8181818,0.72,0.99983984
+940,spaghetti squash,tensor(0.7428),0.96,0.86238533,0.7966102,0.94,0.99975973
+941,acorn squash,tensor(0.7428),0.96,0.8514852,0.84313726,0.86,0.99983984
+942,butternut squash,tensor(0.7428),0.88,0.7954545,0.92105263,0.7,0.9999399
+943,"cucumber, cuke",tensor(0.7428),1.0,0.7238095,0.6909091,0.76,0.99965966
+944,"artichoke, globe artichoke",tensor(0.7428),0.98,0.8659794,0.89361703,0.84,0.9998999
+945,bell pepper,tensor(0.7428),0.98,0.9,0.9,0.9,0.9998999
+946,cardoon,tensor(0.7428),0.94,0.87850463,0.8245614,0.94,0.9997998
+947,mushroom,tensor(0.7428),0.98,0.5,0.6666667,0.4,0.9997998
+948,Granny Smith,tensor(0.7428),0.92,0.92,0.92,0.92,0.9999199
+949,strawberry,tensor(0.7428),0.9,0.74418604,0.8888889,0.64,0.9999199
+950,orange,tensor(0.7428),0.9,0.74725276,0.8292683,0.68,0.99985987
+951,lemon,tensor(0.7428),0.94,0.79999995,0.84444445,0.76,0.99985987
+952,fig,tensor(0.7428),0.94,0.8431373,0.8269231,0.86,0.9998198
+953,"pineapple, ananas",tensor(0.7428),0.96,0.9387755,0.9583333,0.92,0.99995995
+954,banana,tensor(0.7428),0.94,0.87234044,0.9318182,0.82,0.9999399
+955,"jackfruit, jak, jack",tensor(0.7428),1.0,0.92,0.92,0.92,0.9999199
+956,custard apple,tensor(0.7428),1.0,0.8888889,0.82758623,0.96,0.9997998
+957,pomegranate,tensor(0.7428),0.92,0.8453609,0.87234044,0.82,0.9998799
+958,hay,tensor(0.7428),0.92,0.8222223,0.925,0.74,0.9999399
+959,carbonara,tensor(0.7428),0.96,0.86315787,0.9111111,0.82,0.9999199
+960,"chocolate sauce, chocolate syrup",tensor(0.7428),0.94,0.5473684,0.5777778,0.52,0.9996196
+961,dough,tensor(0.7428),0.72,0.4578313,0.57575756,0.38,0.99971974
+962,"meat loaf, meatloaf",tensor(0.7428),0.94,0.61538464,0.5925926,0.64,0.9995596
+963,"pizza, pizza pie",tensor(0.7428),0.86,0.85106385,0.90909094,0.8,0.9999199
+964,potpie,tensor(0.7428),0.92,0.6666667,0.6363636,0.7,0.9995996
+965,burrito,tensor(0.7428),0.98,0.8363636,0.76666665,0.92,0.99971974
+966,red wine,tensor(0.7428),0.82,0.64220184,0.59322035,0.7,0.9995195
+967,espresso,tensor(0.7428),0.86,0.6262626,0.63265306,0.62,0.99963963
+968,cup,tensor(0.7428),0.72,0.43678162,0.5135135,0.38,0.99963963
+969,eggnog,tensor(0.7428),0.76,0.4423077,0.42592594,0.46,0.9993794
+970,alp,tensor(0.7428),0.94,0.5573771,0.4722222,0.68,0.99923927
+971,bubble,tensor(0.7428),0.92,0.8172043,0.88372093,0.76,0.9998999
+972,"cliff, drop, drop-off",tensor(0.7428),1.0,0.65546215,0.5652174,0.78,0.9993994
+973,coral reef,tensor(0.7428),0.96,0.70370376,0.6551724,0.76,0.9995996
+974,geyser,tensor(0.7428),1.0,0.8867925,0.83928573,0.94,0.9998198
+975,"lakeside, lakeshore",tensor(0.7428),0.98,0.48226947,0.37362638,0.68,0.99885887
+976,"promontory, headland, head, foreland",tensor(0.7428),0.96,0.63265306,0.6458333,0.62,0.99965966
+977,"sandbar, sand bar",tensor(0.7428),0.94,0.62500006,0.65217394,0.6,0.9996797
+978,"seashore, coast, seacoast, sea-coast",tensor(0.7428),0.88,0.4227642,0.3561644,0.52,0.9990591
+979,"valley, vale",tensor(0.7428),1.0,0.67256635,0.6031746,0.76,0.9994995
+980,volcano,tensor(0.7428),0.9,0.75268817,0.81395346,0.7,0.99983984
+981,"ballplayer, baseball player",tensor(0.7428),0.92,0.7474748,0.75510204,0.74,0.99975973
+982,"groom, bridegroom",tensor(0.7428),0.74,0.67469877,0.8484849,0.56,0.9998999
+983,scuba diver,tensor(0.7428),0.98,0.8235294,0.8076923,0.84,0.9997998
+984,rapeseed,tensor(0.7428),0.98,0.98,0.98,0.98,0.99998
+985,daisy,tensor(0.7428),0.98,0.9607843,0.9423077,0.98,0.9999399
+986,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",tensor(0.7428),1.0,1.0,1.0,1.0,1.0
+987,corn,tensor(0.7428),0.96,0.40476188,0.5,0.34,0.99965966
+988,acorn,tensor(0.7428),1.0,0.9019608,0.88461536,0.92,0.9998799
+989,"hip, rose hip, rosehip",tensor(0.7428),1.0,0.9245283,0.875,0.98,0.99985987
+990,"buckeye, horse chestnut, conker",tensor(0.7428),1.0,0.86,0.86,0.86,0.99985987
+991,coral fungus,tensor(0.7428),1.0,0.9038461,0.8703704,0.94,0.99985987
+992,agaric,tensor(0.7428),0.94,0.7678572,0.6935484,0.86,0.9996196
+993,gyromitra,tensor(0.7428),1.0,0.95238096,0.90909094,1.0,0.9998999
+994,"stinkhorn, carrion fungus",tensor(0.7428),0.98,0.81481487,0.7586207,0.88,0.99971974
+995,earthstar,tensor(0.7428),1.0,0.8990826,0.8305085,0.98,0.9997998
+996,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",tensor(0.7428),0.98,0.8000001,0.7076923,0.92,0.9996196
+997,bolete,tensor(0.7428),0.94,0.72549015,0.71153843,0.74,0.9996997
+998,"ear, spike, capitulum",tensor(0.7428),0.96,0.6306306,0.57377046,0.7,0.9994795
+999,"toilet tissue, toilet paper, bathroom tissue",tensor(0.7428),0.78,0.5411765,0.6571429,0.46,0.99975973
