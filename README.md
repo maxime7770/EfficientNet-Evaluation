@@ -21,6 +21,6 @@ Here are the global results (on the entire dataset and for all classes):
 |  Specificity    | 99.97% |
 
 
-Please check the `main.ipynb` for more results such as metrics' distributions per classes, analysis, interpretations and more.
+Please check the `main.ipynb` and `classification_report.csv` files for more results such as metrics' distributions per classes, analysis, interpretations and more.
 
 
